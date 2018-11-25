@@ -582,5 +582,13 @@
     "region": "Varaždinska",
     "coordinatesLatitude": 46.247959,
     "coordinatesLongitude": 16.356624
+  },
+  {
+    "id": "73",
+    "title": "Tomaševec Biskupečki 3",
+    "subtitle": "Kod benzinske postaje INA",
+    "region": "Varaždinska",
+    "coordinatesLatitude": 46.247959,
+    "coordinatesLongitude": 16.356624
   }
 ]
