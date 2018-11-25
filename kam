@@ -574,13 +574,5 @@
     "region": "Varaždinska",
     "coordinatesLatitude": 46.247959,
     "coordinatesLongitude": 16.356624
-  },
-  {
-    "id": "72",
-    "title": "Buzet",
-    "subtitle": "Prije CRODUX-a",
-    "region": "Istarska",
-    "coordinatesLatitude": 45.4086,
-    "coordinatesLongitude": 13.9742
   }
 ]
