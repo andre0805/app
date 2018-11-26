@@ -33,7 +33,7 @@
   },
   {
     "id": "4",
-    "title": "Zagrebačka +Grad Zagreb avenija",
+    "title": "Savonska avenija",
     "subtitle": "Ispred podvožnjaka Savska (smjer zapad)",
     "region": "Zagrebačka +Grad Zagreb",
     "coordinatesLatitude": 45.79407,
@@ -579,7 +579,7 @@
     "id": "72",
     "title": "Podmurvice",
     "subtitle": "Ulica Franje Čandeka 23A",
-    "region": "Varaždinska",
+    "region": "Primorsko-goranska",
     "coordinatesLatitude": 45.3391527,
     "coordinatesLongitude": 14.4149421
   }
