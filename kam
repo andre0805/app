@@ -574,5 +574,13 @@
     "region": "Varaždinska",
     "coordinatesLatitude": 46.247959,
     "coordinatesLongitude": 16.356624
+  },
+  {
+    "id": "72",
+    "title": "Rijeka",
+    "subtitle": "Kod benzinske postaje INA",
+    "region": "Primorsko-goranska",
+    "coordinatesLatitude": 45.6277,
+    "coordinatesLongitude": 15.356624
   }
 ]
