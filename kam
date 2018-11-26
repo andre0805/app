@@ -574,5 +574,13 @@
     "region": "Varaždinska",
     "coordinatesLatitude": 46.247959,
     "coordinatesLongitude": 16.356624
+  },
+  {
+    "id": "72",
+    "title": "Podmurvice",
+    "subtitle": "Ulica Franje Čandeka 23A",
+    "region": "Varaždinska",
+    "coordinatesLatitude": 45.3391527,
+    "coordinatesLongitude": 14.4149421
   }
 ]
