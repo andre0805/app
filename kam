@@ -567,20 +567,20 @@
     "coordinatesLatitude": 44.985947,
     "coordinatesLongitude": 14.7236
   },
-   {
-     "id": "71",
-     "title": "Tomaševec Biskupečki",
-     "subtitle": "Kod benzinske postaje INA",
-     "region": "Varaždinska",
-     "coordinatesLatitude": 46.247959,
-     "coordinatesLongitude": 16.356624
+  {
+    "id": "71",
+    "title": "Tomaševec Biskupečki",
+    "subtitle": "Kod benzinske postaje INA",
+    "region": "Varaždinska",
+    "coordinatesLatitude": 46.247959,
+    "coordinatesLongitude": 16.356624
    },
    {
-     "id": "72",
-     "title": "Podmurvice",
-     "subtitle": "Ulica Franje Čandeka 23A",
-     "region": "Primorsko-goranska",
-     "coordinatesLatitude": 45.3391527,
-     "coordinatesLongitude": 14.4149421
+    "id": "72",
+    "title": "Podmurvice",
+    "subtitle": "Ulica Franje Čandeka 23A",
+    "region": "Primorsko-goranska",
+    "coordinatesLatitude": 45.3391527,
+    "coordinatesLongitude": 14.4149421
    }
 ]
