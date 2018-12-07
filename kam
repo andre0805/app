@@ -582,5 +582,13 @@
     "region": "Primorsko-goranska",
     "coordinatesLatitude": 45.3391527,
     "coordinatesLongitude": 14.4149421
+  },
+  {
+    "id": "73",
+    "title": "Podmurvice 4",
+    "subtitle": "Ulica Franje Čandeka 23A 4",
+    "region": "Primorsko-goranska",
+    "coordinatesLatitude": 43.3391527,
+    "coordinatesLongitude": 16.4149421
   }
 ]
