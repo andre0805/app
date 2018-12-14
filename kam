@@ -582,5 +582,13 @@
      "region": "Primorsko-goranska",		
      "coordinatesLatitude": 45.3391527,		
      "coordinatesLongitude": 14.4149421		
-    }		
+    },		
+    {		
+     "id": "73",		
+     "title": "Aleja Bologne #2",		
+     "subtitle": "100m prije semafora",		
+     "region": "Primorsko-goranska",		
+     "coordinatesLatitude": 45.815067,		
+     "coordinatesLongitude": 15.848784		
+    }			
  ]
