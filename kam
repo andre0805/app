@@ -616,6 +616,14 @@
      "coordinatesLongitude": 15.511689		
     },		
     {		
+     "id": "77",		
+     "title": "Osoje",		
+     "subtitle": "Ulaz u mjesto Osoje iz smjera Splita",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.616888,		
+     "coordinatesLongitude": 16.597210		
+    },		
+    {		
      "id": "78",		
      "title": "Starigrad",		
      "subtitle": "Kod Trga Stjepana Radića",		
@@ -764,8 +772,8 @@
      "title": "Ulica Antuna Gustava Matoša",		
      "subtitle": "Križanje Ulice Antuna Gustava Matoša i Prilaza Vladimira Nazora",		
      "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.514672,		
-     "coordinatesLongitude": 16.443560		
+     "coordinatesLatitude": 43.513005,		
+     "coordinatesLongitude": 16.432415		
     },		
     {		
      "id": "97",		
