@@ -25,7 +25,7 @@
    },		
    {		
      "id": "3",		
-     "title": "Ulica Marina Držića",		
+     "title": "Avenija Marina Držića",		
      "subtitle": "Ispred petlje sa Slavonskom avenijom (smjer jug)",		
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.79791,		
@@ -827,6 +827,14 @@
      "id": "103",		
      "title": "Avenija Marina Držića",		
      "subtitle": "Križanje Avenije Marina Držića i Ulice kneza Branimira",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.806286,	
+     "coordinatesLongitude": 15.992394		
+    },		
+    {		
+     "id": "104",		
+     "title": "Zagrebačka ulica",		
+     "subtitle": "Križanje Zagrebačke ulice i Ulice kneza Branimira",		
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.806286,	
      "coordinatesLongitude": 15.992394		
