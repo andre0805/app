@@ -706,7 +706,7 @@
     {		
      "id": "89",		
      "title": "Ulica Domovinskoga rata #2",		
-     "subtitle": "Križanje ulice Domovinskoga rata i Solinske ulice",		
+     "subtitle": "Križanje Ulice Domovinskoga rata i Solinske ulice",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.520003,		
      "coordinatesLongitude": 16.462228		
@@ -718,5 +718,13 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.511332,		
      "coordinatesLongitude": 16.454483		
+    },		
+    {		
+     "id": "91",		
+     "title": "Ulica Bruna Bušića",		
+     "subtitle": "Križanje Ulice Bruna Bušića i Ulice Jurja Šižgorića",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.511137,		
+     "coordinatesLongitude": 16.462434		
     }
  ]
