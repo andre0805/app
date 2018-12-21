@@ -702,5 +702,21 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.514518,		
      "coordinatesLongitude": 16.474394		
+    },		
+    {		
+     "id": "89",		
+     "title": "Ulica Domovinskoga rata #2",		
+     "subtitle": "Križanje ulice Domovinskoga rata i Solinske ulice",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.520003,		
+     "coordinatesLongitude": 16.462228		
+    },		
+    {		
+     "id": "90",		
+     "title": "Ulica Domovinskoga rata #2",		
+     "subtitle": "Križanje ulice Domovinskoga rata i Solinske ulice",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.520003,		
+     "coordinatesLongitude": 16.462228		
     }
  ]
