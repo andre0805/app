@@ -654,5 +654,37 @@
      "region": "Zadarska",		
      "coordinatesLatitude": 44.021525,		
      "coordinatesLongitude": 15.354063		
-    }		
+    },		
+    {		
+     "id": "83",		
+     "title": "Podaca",		
+     "subtitle": "Jadranska magistrala",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.123362,	
+     "coordinatesLongitude": 17.303069		
+    },		
+    {		
+     "id": "84",		
+     "title": "Podgora",		
+     "subtitle": "Na izlazu iz mjesta prema Drašnicama",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.232411,	
+     "coordinatesLongitude": 17.088841		
+    },		
+    {		
+     "id": "85",		
+     "title": "Ruskamen",		
+     "subtitle": "Na izlazu iz mjesta prema Čelini",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.408612,		
+     "coordinatesLongitude": 16.751073		
+    },		
+    {		
+     "id": "86",		
+     "title": "Seget Vranjica",		
+     "subtitle": "Na izlazi iz mjesta prema Trogiru",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.515999,		
+     "coordinatesLongitude": 16.202654		
+    }
  ]
