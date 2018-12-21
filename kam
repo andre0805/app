@@ -590,5 +590,69 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.815067,		
      "coordinatesLongitude": 15.848784		
-    }			
+    }	,		
+    {		
+     "id": "74",		
+     "title": "Sukošan",		
+     "subtitle": "Križanje ceste Testica i Put Oljica",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.038397,		
+     "coordinatesLongitude": 15.333105		
+    },		
+    {		
+     "id": "75",		
+     "title": "Biograd na Moru",		
+     "subtitle": "Na izlazu iz mjesta prema Pakoštanu",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 43.942518,		
+     "coordinatesLongitude": 15.457782		
+    },		
+    {		
+     "id": "76",		
+     "title": "Pakoštane",		
+     "subtitle": "Na izlazu prema mjestu Drage, nasuprot benzinske postaje Petrol",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 43.913152,		
+     "coordinatesLongitude": 15.511689		
+    },		
+    {		
+     "id": "78",		
+     "title": "Starigrad",		
+     "subtitle": "Kod Trga Stjepana Radića",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.294521,		
+     "coordinatesLongitude": 15.439478		
+    },		
+    {		
+     "id": "79",		
+     "title": "Bibinje",		
+     "subtitle": "Križanje Jadranske magistrale i ulice Ilije Smiljanića",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.068295,		
+     "coordinatesLongitude": 15.292038		
+    },		
+    {		
+     "id": "80",		
+     "title": "Poličnik",		
+     "subtitle": "Križanje Jadranske magistrale i ulice dr. Franje Tuđmana",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.174462,	
+     "coordinatesLongitude": 15.380367		
+    },		
+    {		
+     "id": "81",		
+     "title": "Posedarje",		
+     "subtitle": "Križanje Jadranske magistrale i ulice Petra Preradovića",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.213557,		
+     "coordinatesLongitude": 15.481256		
+    },		
+    {		
+     "id": "82",		
+     "title": "Sveti Petar",		
+     "subtitle": "Na izlazu iz Svetog Petra prema Sukošanu",		
+     "region": "Zadarska",		
+     "coordinatesLatitude": 44.021525,		
+     "coordinatesLongitude": 15.354063		
+    }		
  ]
