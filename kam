@@ -854,5 +854,69 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.814613,	
      "coordinatesLongitude": 16.183600		
+    },		
+    {		
+     "id": "107",		
+     "title": "Zaton Doli",		
+     "subtitle": "Na izlazu iz mjesta prema Dubrovniku",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 42.828846,	
+     "coordinatesLongitude": 17.753739	
+    },		
+    {		
+     "id": "108",		
+     "title": "Brsečine",		
+     "subtitle": "Kod križanja Jadranske magistrale i Ulice Podubrava",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 42.728635,	
+     "coordinatesLongitude": 17.957667	
+    },		
+    {		
+     "id": "109",		
+     "title": "Ploče",		
+     "subtitle": "Na ulazu u Ploče u smjeru Splita",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 43.056511,	
+     "coordinatesLongitude": 17.444700	
+    },		
+    {		
+     "id": "110",		
+     "title": "Dubrovnik",		
+     "subtitle": "Križanje Jadranske magistrale sa Sinjskom ulicom",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 42.651631,	
+     "coordinatesLongitude": 18.098567	
+    },		
+    {		
+     "id": "111",		
+     "title": "Gruda",		
+     "subtitle": "Jadranska magistrala u smjeru Crne Gore",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 42.828846,	
+     "coordinatesLongitude": 17.753739	
+    },		
+    {		
+     "id": "112",		
+     "title": "Plat",		
+     "subtitle": "Kod križanja Jadranske magistrale s Ulicom Pod Gospom",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 42.828846,	
+     "coordinatesLongitude": 17.753739	
+    },		
+    {		
+     "id": "113",		
+     "title": "Metković #1",		
+     "subtitle": "Splitska ulica, kod trgovine Gorenje",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 43.052659,	
+     "coordinatesLongitude": 17.634900	
+    },		
+    {		
+     "id": "114",		
+     "title": "Metković #2",		
+     "subtitle": "Ulica Zrinskih i Frnakopana 125",		
+     "region": "Dubrovačko-neretvanska",		
+     "coordinatesLatitude": 43.050216,	
+     "coordinatesLongitude": 17.626372	
     }
  ]
