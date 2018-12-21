@@ -806,5 +806,21 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.799512,		
      "coordinatesLongitude": 15.962274		
+    },		
+    {		
+     "id": "101",		
+     "title": "Trg Josipa Jurja Strossmayera #1",		
+     "subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer jug)",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.808777,	
+     "coordinatesLongitude": 15.979225		
+    },		
+    {		
+     "id": "102",		
+     "title": "Trg Josipa Jurja Strossmayera #2",		
+     "subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer sjever)",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.810247,	
+     "coordinatesLongitude": 15.977600		
     }
  ]
