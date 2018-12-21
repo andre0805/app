@@ -790,5 +790,21 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.590799,		
      "coordinatesLongitude": 16.735096		
+    },		
+    {		
+     "id": "99",		
+     "title": "Savska cesta",		
+     "subtitle": "Križanje Savske ceste i Ulice Izidora Kršnjavog",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.807313,		
+     "coordinatesLongitude": 15.967714		
+    },		
+    {		
+     "id": "100",		
+     "title": "Savska cesta #2",		
+     "subtitle": "Križanje Savske ceste i Ulice grada Vukovara",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.799512,		
+     "coordinatesLongitude": 15.962274		
     }
  ]
