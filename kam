@@ -758,5 +758,13 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.514672,		
      "coordinatesLongitude": 16.443560		
+    },		
+    {		
+     "id": "96",		
+     "title": "Ulica Antuna Gustava Matoša",		
+     "subtitle": "Križanje Ulice Antuna Gustava Matoša i Prilaza Vladimira Nazora",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.514672,		
+     "coordinatesLongitude": 16.443560		
     }
  ]
