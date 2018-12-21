@@ -782,5 +782,13 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.547699,		
      "coordinatesLongitude": 16.494282		
+    },		
+    {		
+     "id": "98",		
+     "title": "Čaporice",		
+     "subtitle": "Na izlazu iz mjesta Čaporice prema Ugljanu",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.590799,		
+     "coordinatesLongitude": 16.735096		
     }
  ]
