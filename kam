@@ -918,5 +918,13 @@
      "region": "Dubrovačko-neretvanska",		
      "coordinatesLatitude": 43.050216,	
      "coordinatesLongitude": 17.626372	
+    },		
+    {		
+     "id": "115",		
+     "title": "Pirovac",		
+     "subtitle": "Križanje Jadranske magistrale i Zagrebačke ulice",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.050216,	
+     "coordinatesLongitude": 17.626372	
     }
  ]
