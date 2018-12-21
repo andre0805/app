@@ -449,11 +449,11 @@
    },		
    {		
      "id": "56",		
-     "title": "Sirobuja",		
-     "subtitle": "Ulica kralja Stjepana Držislava",		
+     "title": "Stobreč",		
+     "subtitle": "Križanje Jadranske magistrale i Ulice sv. Lovre",		
      "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.505988,		
-     "coordinatesLongitude": 16.508151		
+     "coordinatesLatitude": 43.506318,		
+     "coordinatesLongitude": 16.527316		
    },		
    {		
      "id": "57",		
@@ -686,5 +686,21 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.515999,		
      "coordinatesLongitude": 16.202654		
+    },		
+    {		
+     "id": "87",		
+     "title": "Poljička cesta #2",		
+     "subtitle": "Križanje Poljičke ceste i Velebitske ulice",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.509289,		
+     "coordinatesLongitude": 16.475387		
+    },		
+    {		
+     "id": "88",		
+     "title": "Vukovarska ulica #2",		
+     "subtitle": "Križanje Vukovarske ulice i Ninske ulice",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.514518,		
+     "coordinatesLongitude": 16.474394		
     }
  ]
