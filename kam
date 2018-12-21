@@ -854,5 +854,13 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.814613,	
      "coordinatesLongitude": 16.183600		
+    },		
+    {		
+     "id": "107",		
+     "title": "Čvorište Kosnica",		
+     "subtitle": "Prije čvorišta kosnice u pravcu Sesveta",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.751394,
+     "coordinatesLongitude": 16.071561		
     }
  ]
