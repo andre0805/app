@@ -766,5 +766,13 @@
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.514672,		
      "coordinatesLongitude": 16.443560		
+    },		
+    {		
+     "id": "97",		
+     "title": "Ulica kneza Trpimira",		
+     "subtitle": "Križanje Ulice kneza Trpimira i Ulice Ante Starčevića",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.547699,		
+     "coordinatesLongitude": 16.494282		
     }
  ]
