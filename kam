@@ -713,7 +713,7 @@
     },		
     {		
      "id": "90",		
-     "title": "Vukovarska ulcia #3",		
+     "title": "Vukovarska ulica #3",		
      "subtitle": "Križanje Vukovarske ulice i Dubrovačke ulice",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.511332,		
@@ -723,6 +723,14 @@
      "id": "91",		
      "title": "Ulica Bruna Bušića",		
      "subtitle": "Križanje Ulice Bruna Bušića i Ulice Jurja Šižgorića",		
+     "region": "Splitsko-dalmatinska",		
+     "coordinatesLatitude": 43.511137,		
+     "coordinatesLongitude": 16.462434		
+    },		
+    {		
+     "id": "92",		
+     "title": "Vukovarska ulica #4",		
+     "subtitle": "Križanje Vukovarske ulice i Vukovarske ulice",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.511137,		
      "coordinatesLongitude": 16.462434		
