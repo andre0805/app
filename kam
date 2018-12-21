@@ -838,5 +838,13 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.826689,	
      "coordinatesLongitude": 16.083169		
+    },		
+    {		
+     "id": "105",		
+     "title": "Sesvete",		
+     "subtitle": "Križanje Zagrebačke ulice i Bistričke ulice",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.827632,	
+     "coordinatesLongitude": 16.106527		
     }
  ]
