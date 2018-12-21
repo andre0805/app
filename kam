@@ -822,5 +822,13 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.810247,	
      "coordinatesLongitude": 15.977600		
+    },		
+    {		
+     "id": "103",		
+     "title": "Avenija Marina Držića",		
+     "subtitle": "Križanje Avenije Marina Držića i Ulice kneza Branimira",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.806286,	
+     "coordinatesLongitude": 15.992394		
     }
  ]
