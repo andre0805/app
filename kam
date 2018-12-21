@@ -97,11 +97,11 @@
    },		
    {		
      "id": "12",		
-     "title": "Ivanja Reka",		
-     "subtitle": "34. kilometar zagrebačke obilaznice, cesta A3/E65",		
+     "title": "Ivanja reka",		
+     "subtitle": "Prije čvorišta s Autocestom Bregana-Zagreb",		
      "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.7917,		
-     "coordinatesLongitude": 16.12732		
+     "coordinatesLatitude": 45.802831,
+     "coordinatesLongitude": 16.118797	
    },		
    {		
      "id": "13",		
@@ -846,5 +846,13 @@
      "region": "Zagrebačka +Grad Zagreb",		
      "coordinatesLatitude": 45.827632,	
      "coordinatesLongitude": 16.106527		
+    },		
+    {		
+     "id": "106",		
+     "title": "Sesvetski kraljevec",		
+     "subtitle": "Križanje Dugoselske ulice i Ulice Bedema ljubavi",		
+     "region": "Zagrebačka +Grad Zagreb",		
+     "coordinatesLatitude": 45.814613,	
+     "coordinatesLongitude": 16.183600		
     }
  ]
