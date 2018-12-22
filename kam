@@ -926,5 +926,93 @@
      "region": "Šibensko-kninska",		
      "coordinatesLatitude": 43.050216,	
      "coordinatesLongitude": 17.626372	
+    },		
+    {		
+     "id": "116",		
+     "title": "Vodice #1",		
+     "subtitle": "Jadranska magistrala, kod Lidla",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.767537,	
+     "coordinatesLongitude": 15.770914
+    },		
+    {		
+     "id": "117",		
+     "title": "Voide #2",		
+     "subtitle": Jadranska magistrala, kod Dental Centra Dubravica",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.764444,
+     "coordinatesLongitude": 15.794667	
+    },
+    {		
+     "id": "119",		
+     "title": "Vodice #3",		
+     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Pirovcu",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.775026,
+     "coordinatesLongitude": 15.779835	
+    },
+    {		
+     "id": "120",		
+     "title": "Vodice #4",		
+     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.769389,
+     "coordinatesLongitude": 15.797144	
+    },
+    {		
+     "id": "121",		
+     "title": "Šibenik",		
+     "subtitle": "Jadranska magistrala, kod Plodina",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.753901,
+     "coordinatesLongitude": 15.882154	
+    },
+    {		
+     "id": "122",		
+     "title": "Stupin Čelina",		
+     "subtitle": "Kod križanja Jadranske magistrale s Putom Kapele",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.540768,
+     "coordinatesLongitude": 15.988797	
+    },
+    {		
+     "id": "123",		
+     "title": "Podorljak",		
+     "subtitle": "Jadranska magistrala, kod skretanja za Dvornicu",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.530334,
+     "coordinatesLongitude": 16.026937	
+    },
+    {		
+     "id": "124",		
+     "title": "Čvorište Dubrava kod Šibenika",		
+     "subtitle": "D33 – smjer Tromilja",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.737985,
+     "coordinatesLongitude": 15.936275	
+    },
+    {		
+     "id": "125",		
+     "title": "Bilo #1",		
+     "subtitle": "Jadranska magistrala, u smjeru od Šibenika prema Splitu",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.625276,
+     "coordinatesLongitude": 15.920206	
+    },
+    {		
+     "id": "126",		
+     "title": "Vodice #4",		
+     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.769389,
+     "coordinatesLongitude": 15.797144	
+    },
+    {		
+     "id": "127",		
+     "title": "Vodice #4",		
+     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
+     "region": "Šibensko-kninska",		
+     "coordinatesLatitude": 43.769389,
+     "coordinatesLongitude": 15.797144	
     }
  ]
