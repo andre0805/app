@@ -969,7 +969,7 @@
     },
     {		
      "id": "122",		
-     "title": "Stupin Čelina",		
+     "title": "Stupin Čelina, Rogoznica",		
      "subtitle": "Kod križanja Jadranske magistrale s Putom Kapele",		
      "region": "Šibensko-kninska",		
      "coordinatesLatitude": 43.540768,
@@ -993,26 +993,10 @@
     },
     {		
      "id": "125",		
-     "title": "Bilo #1",		
+     "title": "Bilo",		
      "subtitle": "Jadranska magistrala, u smjeru od Šibenika prema Splitu",		
      "region": "Šibensko-kninska",		
      "coordinatesLatitude": 43.625276,
      "coordinatesLongitude": 15.920206	
-    },
-    {		
-     "id": "126",		
-     "title": "Vodice #4",		
-     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.769389,
-     "coordinatesLongitude": 15.797144	
-    },
-    {		
-     "id": "127",		
-     "title": "Vodice #4",		
-     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.769389,
-     "coordinatesLongitude": 15.797144	
     }
  ]
