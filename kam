@@ -713,8 +713,8 @@
     },		
     {		
      "id": "89",		
-     "title": "Ulica Domovinskoga rata #2",		
-     "subtitle": "Križanje Ulice Domovinskoga rata i Solinske ulice",		
+     "title": "Ulica Domovinskog rata #2",		
+     "subtitle": "Križanje Ulice Domovinskog rata i Solinske ulice",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.520003,		
      "coordinatesLongitude": 16.462228		
@@ -746,7 +746,7 @@
     {		
      "id": "93",		
      "title": "Ulica Domovinskog rata #3",		
-     "subtitle": "Križanje Ulice Domovinskoga rata i Dubrovačke ulice",		
+     "subtitle": "Križanje Ulice Domovinskog rata i Dubrovačke ulice",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.519683,		
      "coordinatesLongitude": 16.449425		
@@ -754,7 +754,7 @@
     {		
      "id": "94",		
      "title": "Ulica Domovinskog rata #4",		
-     "subtitle": "Križanje Ulice Domovinskoga rata i Ulice slobode",		
+     "subtitle": "Križanje Ulice Domovinskog rata i Ulice slobode",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.516921,		
      "coordinatesLongitude": 16.445820		
@@ -762,7 +762,7 @@
     {		
      "id": "95",		
      "title": "Ulica Domovinskog rata #5",		
-     "subtitle": "Križanje Ulice Domovinskoga rata i Mažuranićevog šetališta",		
+     "subtitle": "Križanje Ulice Domovinskog rata i Mažuranićevog šetališta",		
      "region": "Splitsko-dalmatinska",		
      "coordinatesLatitude": 43.514672,		
      "coordinatesLongitude": 16.443560		
