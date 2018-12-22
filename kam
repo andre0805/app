@@ -855,7 +855,7 @@
      "coordinatesLatitude": 45.814613,	
      "coordinatesLongitude": 16.183600		
     },		
-    {		
+    {
      "id": "107",		
      "title": "Zaton Doli",		
      "subtitle": "Na izlazu iz mjesta prema Dubrovniku",		
@@ -892,16 +892,16 @@
      "title": "Gruda",		
      "subtitle": "Jadranska magistrala u smjeru Crne Gore",		
      "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.828846,	
-     "coordinatesLongitude": 17.753739	
+     "coordinatesLatitude": 42.515915,
+     "coordinatesLongitude": 18.372354	
     },		
     {		
      "id": "112",		
      "title": "Plat",		
-     "subtitle": "Kod križanja Jadranske magistrale s Ulicom Pod Gospom",		
+     "subtitle": "Kod križanja Jadranske magistrale s ulicom Pod Gospom",		
      "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.828846,	
-     "coordinatesLongitude": 17.753739	
+     "coordinatesLatitude": 42.609815,	
+     "coordinatesLongitude": 18.228501	
     },		
     {		
      "id": "113",		
@@ -924,8 +924,8 @@
      "title": "Pirovac",		
      "subtitle": "Križanje Jadranske magistrale i Zagrebačke ulice",		
      "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.050216,	
-     "coordinatesLongitude": 17.626372	
+     "coordinatesLatitude": 43.824716,	
+     "coordinatesLongitude": 15.659346
     },		
     {		
      "id": "116",		
