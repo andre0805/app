@@ -998,5 +998,85 @@
      "region": "Šibensko-kninska",		
      "coordinatesLatitude": 43.625276,
      "coordinatesLongitude": 15.920206	
+    },
+    {		
+     "id": "126",		
+     "title": "Pitomača",		
+     "subtitle": "D2 – Ulica Ljudevita Gaja kod kućnog broja 167",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.942825,
+     "coordinatesLongitude": 17.240668	
+    },
+    {		
+     "id": "127",		
+     "title": "Stari Gradac",		
+     "subtitle": "D2 – Ulica Matije Gupca kod kućnog broja 7",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.925418,
+     "coordinatesLongitude": 17.289063	
+    },
+    {		
+     "id": "128",		
+     "title": "Kapela Dvor",		
+     "subtitle": "D5 – kod kućnog broja 29",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.889964,
+     "coordinatesLongitude": 17.420482	
+    },
+    {		
+     "id": "129",		
+     "title": "Virovitica",		
+     "subtitle": "D5 – Virovitička obilaznica, u smjeru Lukača",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.851310,
+     "coordinatesLongitude": 17.380516	
+    },
+    {		
+     "id": "130",		
+     "title": "Suhopolje",		
+     "subtitle": "D2 – Vukovarska ulica kod kućnog broja 77",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 43.625276,
+     "coordinatesLongitude": 15.920206	
+    },
+    {		
+     "id": "131",		
+     "title": "Slatina",		
+     "subtitle": "D34 – Ulica Vladimira Nazora kod kućnog broja 261",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.723855,
+     "coordinatesLongitude": 17.724309	
+    },
+    {		
+     "id": "132",		
+     "title": "Šaševo",		
+     "subtitle": "D34 – Ulica Šaševo kod kućnog broja 9",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.744211,
+     "coordinatesLongitude": 17.834268	
+    },
+    {		
+     "id": "133",		
+     "title": "Čađavački Lug",		
+     "subtitle": "D34 – kod kućnog broja 55",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.754636,
+     "coordinatesLongitude": 17.906016	
+    },
+    {		
+     "id": "134",		
+     "title": "Bukovački Antunovac",		
+     "subtitle": "D2 – kod kućnog broja 80",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.634735,
+     "coordinatesLongitude": 17.794615	
+    },
+    {		
+     "id": "135",		
+     "title": "Čačinci",		
+     "subtitle": "D2 – Vukovarska ulica kod kućnog broja 62",		
+     "region": "Virovitičko-podravska",		
+     "coordinatesLatitude": 45.599710,
+     "coordinatesLongitude": 17.851172	
     }
  ]
