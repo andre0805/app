@@ -1078,5 +1078,101 @@
      "region": "Virovitičko-podravska",		
      "coordinatesLatitude": 45.599710,
      "coordinatesLongitude": 17.851172	
+    },
+    {		
+     "id": "136",		
+     "title": "Cvetkovec",		
+     "subtitle": "2 – Varaždinska ulica kod kućnog broja 2 – prema Ludbregu",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.208876,
+     "coordinatesLongitude": 16.697508	
+    },
+    {		
+     "id": "137",		
+     "title": "Koprivnica",		
+     "subtitle": "D2 – Varaždinska ulica kod kućnog broja 2",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.168592,
+     "coordinatesLongitude": 16.817906
+    },
+    {		
+     "id": "138",		
+     "title": "Glogovac",		
+     "subtitle": "D2 – Koprivnička ulica kod kućnog broja 8",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.120870,
+     "coordinatesLongitude": 16.878690	
+    },
+    {		
+     "id": "139",		
+     "title": "Novigrad Podravski",		
+     "subtitle": "D2 – Koprivnička ulica kod kućnog broja 146",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.087662,
+     "coordinatesLongitude": 16.946990	
+    },
+    {		
+     "id": "140",		
+     "title": "Hampovica",		
+     "subtitle": "D43 – Ulica Šimuna Pandura kodkućnog broja 80",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.015696,
+     "coordinatesLongitude": 16.952230	
+    },
+    {		
+     "id": "141",		
+     "title": "Sveti Ivan Žabno",		
+     "subtitle": "D28 – Ulica braće Radić, kod kućnog broja 32",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 46.158321,
+     "coordinatesLongitude": 16.836562	
+    },
+    {		
+     "id": "142",		
+     "title": "Kenđelovec",		
+     "subtitle": "D28 – kod kućnog broja 15",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 45.948419,
+     "coordinatesLongitude": 16.673013	
+    },
+    {		
+     "id": "",		
+     "title": "",		
+     "subtitle": "",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 
+     "coordinatesLongitude": 	
+    },
+    {		
+     "id": "",		
+     "title": "",		
+     "subtitle": "",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 
+     "coordinatesLongitude": 	
+    },
+    {		
+     "id": "",		
+     "title": "",		
+     "subtitle": "",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 
+     "coordinatesLongitude": 	
+    },
+    {		
+     "id": "",		
+     "title": "",		
+     "subtitle": "",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 
+     "coordinatesLongitude": 	
+    },
+    {		
+     "id": "",		
+     "title": "",		
+     "subtitle": "",		
+     "region": "Koprivničko-križevačka",		
+     "coordinatesLatitude": 
+     "coordinatesLongitude": 	
     }
  ]
