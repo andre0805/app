@@ -1158,5 +1158,21 @@
      "region": "Koprivničko-križevačka",		
      "coordinatesLatitude": 46.017092, 
      "coordinatesLongitude": 16.526837	
+    },
+    {		
+     "id": "146",		
+     "title": "Varaždin",		
+     "subtitle": "Koprivnička ulica 4B, pored tvrtke Vizor – dva kućišta",		
+     "region": "Varaždinska",		
+     "coordinatesLatitude": 46.314808, 
+     "coordinatesLongitude": 16.347383 	
+    },
+    {		
+     "id": "147",		
+     "title": "Varaždinska obilaznica",		
+     "subtitle": "D2 – istočna varaždinska obilaznica, kod tvrtke Solvis – dva kućišta",		
+     "region": "Varaždinska",		
+     "coordinatesLatitude": 46.273407, 
+     "coordinatesLongitude": 16.361751
     }
  ]
