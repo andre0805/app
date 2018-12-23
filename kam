@@ -1136,43 +1136,27 @@
      "coordinatesLongitude": 16.673013	
     },
     {		
-     "id": "",		
-     "title": "",		
-     "subtitle": "",		
+     "id": "143",		
+     "title": "Križevci #1",		
+     "subtitle": "Ulica Petra Zrinskog, preko puta JYSK-a",		
      "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 
-     "coordinatesLongitude": 	
+     "coordinatesLatitude": 46.022567,
+     "coordinatesLongitude": 16.548327
     },
     {		
-     "id": "",		
-     "title": "",		
-     "subtitle": "",		
+     "id": "144",		
+     "title": "Križevci #2",		
+     "subtitle": "Kalnička ulica, na ulazu u Križevce",		
      "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 
-     "coordinatesLongitude": 	
+     "coordinatesLatitude": 46.039900,
+     "coordinatesLongitude": 16.532647
     },
     {		
-     "id": "",		
-     "title": "",		
-     "subtitle": "",		
+     "id": "145",		
+     "title": "Karane",		
+     "subtitle": "Koruška ulica, na ulazu u mjesto Karane",		
      "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 
-     "coordinatesLongitude": 	
-    },
-    {		
-     "id": "",		
-     "title": "",		
-     "subtitle": "",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 
-     "coordinatesLongitude": 	
-    },
-    {		
-     "id": "",		
-     "title": "",		
-     "subtitle": "",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 
-     "coordinatesLongitude": 	
+     "coordinatesLatitude": 46.017092, 
+     "coordinatesLongitude": 16.526837	
     }
  ]
