@@ -65,11 +65,11 @@
    },		
    {		
      "id": "8",		
-     "title": "Žerjavinec, Omladinska ulica",		
-     "subtitle": "Kod kućnog broja 8 (smjer istok)",		
+     "title": "Žerjavinec",		
+     "subtitle": "Omladinska ulica",		
      "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.87399,		
-     "coordinatesLongitude": 16.16346		
+     "coordinatesLatitude": 45.872375,		
+     "coordinatesLongitude": 16.161919		
    },		
    {		
      "id": "9",		
@@ -1174,5 +1174,21 @@
      "region": "Varaždinska",		
      "coordinatesLatitude": 46.273407, 
      "coordinatesLongitude": 16.361751
+    },
+    {		
+     "id": "148",		
+     "title": "Josipdol #2",		
+     "subtitle": "Senjska ulica",		
+     "region": "Karlovačka",		
+     "coordinatesLatitude": 45.181488, 
+     "coordinatesLongitude": 15.287607
+    },
+    {		
+     "id": "149",		
+     "title": "Cerovac Vukmanićki",		
+     "subtitle": "Cerovac Vukmanićki 60A",		
+     "region": "Karlovačka",		
+     "coordinatesLatitude": 45.426483, 
+     "coordinatesLongitude": 15.605875
     }
  ]
