@@ -244,8 +244,8 @@
      "title": "Feričanci",		
      "subtitle": "Ulica Petrovac 86 (smjer istok)",		
      "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.52616,		
-     "coordinatesLongitude": 17.96234		
+     "coordinatesLatitude": 45.530121,		
+     "coordinatesLongitude": 17.951361		
    },		
    {		
      "id": "31",		
@@ -690,10 +690,10 @@
     {		
      "id": "86",		
      "title": "Seget Vranjica",		
-     "subtitle": "Na izlazi iz mjesta prema Trogiru",		
+     "subtitle": "Na ulazu u mjesto prema Trogiru",		
      "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.515999,		
-     "coordinatesLongitude": 16.202654		
+     "coordinatesLatitude": 43.513681,		
+     "coordinatesLongitude": 16.184068		
     },		
     {		
      "id": "87",		
