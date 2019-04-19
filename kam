@@ -1678,5 +1678,13 @@
 "region": "Dubrovačko-neretvanska",		
 "coordinatesLatitude": 42.975803, 
 "coordinatesLongitude": 17.181026
+},
+{		
+"id": "211",		
+"title": "Imotski, Donji Vinjani",		
+"subtitle": "Kod osnovne škole Donji Vinjani",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.430640,
+"coordinatesLongitude": 17.248611
 }
 ]
