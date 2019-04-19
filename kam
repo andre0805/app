@@ -1566,5 +1566,37 @@
 "region": "Bjelovarsko-bilogorska",		
 "coordinatesLatitude": 45.754353, 
 "coordinatesLongitude": 16.624
+},
+{		
+"id": "197",		
+"title": "Vinkovci #1",		
+"subtitle": "D55 - križanje ulice Ruđera Boškovića i ulice Ćirila i Metoda",		
+"region": "Vukovarsko-srijemska",		
+"coordinatesLatitude": 45.28437, 
+"coordinatesLongitude": 18.814055
+},
+{		
+"id": "198",		
+"title": "Vinkovci #2",		
+"subtitle": "D55 - križanje ulice Hrvoja Vukčića Hrvatinića i ulice Nikole Tordinca",		
+"region": "Vukovarsko-srijemska",		
+"coordinatesLatitude": 45.279796, 
+"coordinatesLongitude": 18.806028
+},
+{		
+"id": "199",		
+"title": "Bobota",		
+"subtitle": "Križanje državne ceste D2 i županijske ceste Ž4111",		
+"region": "Vukovarsko-srijemska",		
+"coordinatesLatitude": 45.443177, 
+"coordinatesLongitude": 18.874517
+},
+{		
+"id": "200",		
+"title": "Gradište",		
+"subtitle": "Križanje ulice dr. Marka Kadića i državne ceste D55",		
+"region": "Vukovarsko-srijemska",		
+"coordinatesLatitude": 45.144633, 
+"coordinatesLongitude": 18.727766
 }
 ]
