@@ -1254,5 +1254,85 @@
 "region": "Istarska",		
 "coordinatesLatitude": 45.273832, 
 "coordinatesLongitude": 13.652867
+},
+{		
+"id": "158",		
+"title": "Pitomača",		
+"subtitle": "Križanje ulice Ljudevita Gaja i ulice Vatroslava Lisinskog",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.942283, 
+"coordinatesLongitude": 17.243221
+},
+{		
+"id": "159",		
+"title": "Stari Gradac",		
+"subtitle": "Ulica Matije Gupca 3",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.92537, 
+"coordinatesLongitude": 17.28963
+},
+{		
+"id": "160",		
+"title": "Kapela Dvor",		
+"subtitle": "Ulica Kapela Dvor 29A",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.88933, 
+"coordinatesLongitude": 17.419052
+},
+{		
+"id": "161",		
+"title": "Virovitica",		
+"subtitle": "Ulica Josipa Jurja Strossmayera 171",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.838636, 
+"coordinatesLongitude": 17.364331
+},
+{		
+"id": "162",		
+"title": "Suhopolje",		
+"subtitle": "Vukovarska ulica 77",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.794557, 
+"coordinatesLongitude": 17.507288
+},
+{		
+"id": "163",		
+"title": "Slatina",		
+"subtitle": "Ulica Vladimira Nazora 261",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.724225, 
+"coordinatesLongitude": 17.724941
+},
+{		
+"id": "164",		
+"title": "Čađavica, Šaševo",		
+"subtitle": "Ulica Šaševo 9",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.744086, 
+"coordinatesLongitude": 17.82955
+},
+{		
+"id": "165",		
+"title": "Čađavački lug",		
+"subtitle": "D34, Čađavački lug 55",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.742164, 
+"coordinatesLongitude": 17.850667
+},
+{		
+"id": "166",		
+"title": "Bukovački Antunovac",		
+"subtitle": "Ulica Nikole Šubića Zrinskog 80",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.634884, 
+"coordinatesLongitude": 17.794472
+},
+{		
+"id": "167",		
+"title": "Čačinci",		
+"subtitle": "Vinogradska ulica 62",		
+"region": "Virovitčko-podravska",		
+"coordinatesLatitude": 45.599752, 
+"coordinatesLongitude": 17.851179
 }
 ]
