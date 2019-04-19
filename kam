@@ -1598,5 +1598,37 @@
 "region": "Vukovarsko-srijemska",		
 "coordinatesLatitude": 45.144633, 
 "coordinatesLongitude": 18.727766
+},
+{		
+"id": "201",		
+"title": "Kovačevac",		
+"subtitle": "Ž4158 - kod kbr. 84",		
+"region": "Brodsko-posavska",		
+"coordinatesLatitude": 45.265503, 
+"coordinatesLongitude": 17.356688
+},
+{		
+"id": "202",		
+"title": "Sapci",		
+"subtitle": "Ž4202 - kod kbr. 122",		
+"region": "Brodsko-posavska",		
+"coordinatesLatitude": 45.180219, 
+"coordinatesLongitude": 18.216105
+},
+{		
+"id": "203",		
+"title": "Rastušje",		
+"subtitle": "D53 - naspurot kbr. 2B",		
+"region": "Brodsko-posavska",		
+"coordinatesLatitude": 45.202652, 
+"coordinatesLongitude": 18.037271
+},
+{		
+"id": "204",		
+"title": "Sibinj",		
+"subtitle": "D525 - Ulica Sibinjskih žrtava 91",		
+"region": "Brodsko-posavska",		
+"coordinatesLatitude": 45.187894, 
+"coordinatesLongitude": 17.900769
 }
 ]
