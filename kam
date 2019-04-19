@@ -538,10 +538,10 @@
 {		
 "id": "67",		
 "title": "Izlaz iz Splita",		
-"subtitle": "Prije nadvožnjaka u smjeru Stobreča",		
+"subtitle": "D8 - Ulica kralja Stjepana Držislava 21",		
 "region": "Splitsko-dalmatinska",		
-"coordinatesLatitude": 43.50605,		
-"coordinatesLongitude": 16.50835		
+"coordinatesLatitude": 43.508949,	
+"coordinatesLongitude": 16.495434		
 },		
 {		
 "id": "68",		
@@ -1662,5 +1662,21 @@
 "region": "Požeško-slavonska",		
 "coordinatesLatitude": 45.450015, 
 "coordinatesLongitude": 17.196691
+},
+{		
+"id": "209",		
+"title": "Dubrovnik, Čajkovići",		
+"subtitle": "Čajkovići 3",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.66996, 
+"coordinatesLongitude": 18.11947
+},
+{		
+"id": "210",		
+"title": "Orebić",		
+"subtitle": "D414 - Križanje ulice bana Josipa Jelačića i ulice kapetana Joze Šunje",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.975803, 
+"coordinatesLongitude": 17.181026
 }
 ]
