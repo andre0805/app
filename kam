@@ -1630,5 +1630,37 @@
 "region": "Brodsko-posavska",		
 "coordinatesLatitude": 45.187894, 
 "coordinatesLongitude": 17.900769
+},
+{		
+"id": "205",		
+"title": "Brestovac",		
+"subtitle": "D51 - Požeška 80",		
+"region": "Požeško-slavonska",		
+"coordinatesLatitude": 45.331221, 
+"coordinatesLongitude": 17.591574
+},
+{		
+"id": "206",		
+"title": "Eminovci",		
+"subtitle": "D51 - Vukovarska 97",		
+"region": "Požeško-slavonska",		
+"coordinatesLatitude": 45.357385, 
+"coordinatesLongitude": 17.733672
+},
+{		
+"id": "207",		
+"title": "Pleternica",		
+"subtitle": "D38 - Ulica bana Josipa Jelačića 129",		
+"region": "Požeško-slavonska",		
+"coordinatesLatitude": 45.299744, 
+"coordinatesLongitude": 17.793343
+},
+{		
+"id": "208",		
+"title": "Pakrac",		
+"subtitle": "D5 - Aleja kestenova 20",		
+"region": "Požeško-slavonska",		
+"coordinatesLatitude": 45.450015, 
+"coordinatesLongitude": 17.196691
 }
 ]
