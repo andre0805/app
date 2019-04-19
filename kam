@@ -1294,5 +1294,69 @@
 "region": "Koprivničko-križevačka",		
 "coordinatesLatitude": 46.136395,
 "coordinatesLongitude": 16.782491
+},
+{		
+"id": "163",		
+"title": "Oroslavje",		
+"subtitle": "Ulica Andrije Gredičaka 3i",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 45.992712, 
+"coordinatesLongitude": 15.914863
+},
+{		
+"id": "164",		
+"title": "Krapina #1",		
+"subtitle": "Ulica hrvatskih branitelja kod OŠ Augusta Cesarca",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 46.168236, 
+"coordinatesLongitude": 15.862247
+},
+{		
+"id": "165",		
+"title": "Veliko Trgovišće",		
+"subtitle": "Ulica Stjepana Radića 73",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 45.992436, 
+"coordinatesLongitude": 15.844385
+},
+{		
+"id": "166",		
+"title": "Donja Stubica",		
+"subtitle": "Toplička cesta 29",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 45.981252, 
+"coordinatesLongitude": 15.961935
+},
+{		
+"id": "167",		
+"title": "Bedekovčina",		
+"subtitle": "Ulica Matije Gupca 33",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 46.045113, 
+"coordinatesLongitude": 16.00503
+},
+{		
+"id": "168",		
+"title": "Zabok",		
+"subtitle": "Ulica Matije Gupca 132",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 46.022533, 
+"coordinatesLongitude": 15.897524
+},
+{		
+"id": "169",		
+"title": "Zlatar",		
+"subtitle": "Zagrebačka ulica 49-49A",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 46.081275, 
+"coordinatesLongitude": 16.080224
+},
+{		
+"id": "170",		
+"title": "Krapina #2",		
+"subtitle": "Mihaljekov Jarek 12",		
+"region": "Krapinsko-zagorska",		
+"coordinatesLatitude": 46.152661, 
+"coordinatesLongitude": 15.878332
 }
 ]
