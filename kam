@@ -1025,7 +1025,7 @@
 },
 {		
 "id": "129",		
-"title": "Virovitica",		
+"title": "Virovitica #1",		
 "subtitle": "D5 – Virovitička obilaznica, u smjeru Lukača",		
 "region": "Virovitičko-podravska",		
 "coordinatesLatitude": 45.851310,
@@ -1254,5 +1254,13 @@
 "region": "Istarska",		
 "coordinatesLatitude": 45.273832, 
 "coordinatesLongitude": 13.652867
+},
+{		
+"id": "158",		
+"title": "Virovitica #2",		
+"subtitle": "Ulica Josipa Jurja Strossmayera 171",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.838636, 
+"coordinatesLongitude": 17.364331
 }
 ]
