@@ -1502,5 +1502,69 @@
 "region": "Sisačko-moslavačka",		
 "coordinatesLatitude": 45.514792, 
 "coordinatesLongitude": 16.794865
+},
+{		
+"id": "189",		
+"title": "Rovišće, Žabjak",		
+"subtitle": "D28 - kod kbr. 6A",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.940336, 
+"coordinatesLongitude": 16.75178
+},
+{		
+"id": "190",		
+"title": "Bjelovar",		
+"subtitle": "D43 - Ulica Velike Sredice 228",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.873979, 
+"coordinatesLongitude": 16.814692
+},
+{		
+"id": "191",		
+"title": "Bjelovar, Prespa",		
+"subtitle": "D28 - kod kbr. 31",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.871032, 
+"coordinatesLongitude": 16.898547
+},
+{		
+"id": "192",		
+"title": "Grubišno Polje, Mali Zdenci",		
+"subtitle": "D5 - Ulica Antuna Mihanovića 117",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.684442, 
+"coordinatesLongitude": 17.129253
+},
+{		
+"id": "193",		
+"title": "Daruvar, Donji Daruvar",		
+"subtitle": "D5 - Bjelovarska ulica 12",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.608394, 
+"coordinatesLongitude": 17.22608
+},
+{		
+"id": "194",		
+"title": "Garešnica, Hrastovac",		
+"subtitle": "D26 - Ulica kneza Mislava 3",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.55186, 
+"coordinatesLongitude": 16.988103
+},
+{		
+"id": "195",		
+"title": "Garešnica",		
+"subtitle": "D45 - Ulica Matije Gupca 138",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.591118, 
+"coordinatesLongitude": 16.938615
+},
+{		
+"id": "196",		
+"title": "Čazma",		
+"subtitle": "D43 - Ulica Milana Novačića 89",		
+"region": "Bjelovarsko-bilogorska",		
+"coordinatesLatitude": 45.754353, 
+"coordinatesLongitude": 16.624
 }
 ]
