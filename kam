@@ -1414,5 +1414,29 @@
 "region": "Međimurska",		
 "coordinatesLatitude": 46.421058, 
 "coordinatesLongitude": 16.39547
+},
+{		
+"id": "178",		
+"title": "Kuševac",		
+"subtitle": "Križanje ulice Ante Starčevića i ulice Marka Marulića",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.31683, 
+"coordinatesLongitude": 18.406373
+},
+{		
+"id": "179",		
+"title": "Satnica Đakovačka",		
+"subtitle": "Ulica bana Josipa Jelačića 11",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.352683, 
+"coordinatesLongitude": 18.37624
+},
+{		
+"id": "180",		
+"title": "Piškorevci",		
+"subtitle": "Križanje Zagrebačke ulice i ulice kralja Tvrtka",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.305706, 
+"coordinatesLongitude": 18.420489
 }
 ]
