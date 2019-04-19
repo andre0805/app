@@ -1089,8 +1089,8 @@
 },
 {		
 "id": "137",		
-"title": "Koprivnica",		
-"subtitle": "D2 – Varaždinska ulica kod kućnog broja 2",		
+"title": "Koprivnica #1",		
+"subtitle": "D2 – Varaždinska cesta kod kućnog broja 2",		
 "region": "Koprivničko-križevačka",		
 "coordinatesLatitude": 46.168592,
 "coordinatesLongitude": 16.817906
@@ -1262,5 +1262,13 @@
 "region": "Virovitičko-podravska",		
 "coordinatesLatitude": 45.838636, 
 "coordinatesLongitude": 17.364331
-}
+},
+{		
+"id": "159",		
+"title": "Koprivnica #2",		
+"subtitle": "D2 – Varaždinska cesta kod kućnog broja 117",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.175993,
+"coordinatesLongitude": 16.803614
+},
 ]
