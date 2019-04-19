@@ -1,1194 +1,1258 @@
 [		
-   {		
-     "id": "0",		
-     "title": "Kostrena D8",		
-     "subtitle": "50 metara nakon križanja Doričići (smjer jug)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.30173,		
-     "coordinatesLongitude": 14.50294		
-   },		
-   {		
-     "id": "1",		
-     "title": "Tunel Pećine",		
-     "subtitle": "Prije isključenja za Tower centar (smjer istok)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.31814,		
-     "coordinatesLongitude": 14.46977		
-   },		
-   {		
-     "id": "2",		
-     "title": "Slavonska avenija #1",		
-     "subtitle": "Kod križanja sa Ulicom Milana Sachsa (smjer istok)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.7963,		
-     "coordinatesLongitude": 16.01004		
-   },		
-   {		
-     "id": "3",		
-     "title": "Avenija Marina Držića #1",		
-     "subtitle": "Ispred petlje sa Slavonskom avenijom (smjer jug)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.79791,		
-     "coordinatesLongitude": 15.99765		
-   },		
-   {		
-     "id": "4",		
-     "title": "Slavonska avenija #3",		
-     "subtitle": "Ispred podvožnjaka Savska (smjer zapad)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.79407,		
-     "coordinatesLongitude": 15.96141		
-   },		
-   {		
-     "id": "5",		
-     "title": "Aleja Bologne #1",		
-     "subtitle": "U oba smjera na trasi Gajnice-Zaprešić",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.81387,		
-     "coordinatesLongitude": 15.86995		
-   },		
-   {		
-     "id": "6",		
-     "title": "Ulica Dubrava",		
-     "subtitle": "Kod križanja s Ulicom Druge Poljanice (smjer zapad)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.82856,		
-     "coordinatesLongitude": 16.07094		
-   },		
-   {		
-     "id": "7",		
-     "title": "Pavučnjak D1 #1",		
-     "subtitle": "Kod kućnog broja 59 (smjer jug)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.75557,		
-     "coordinatesLongitude": 15.8325		
-   },		
-   {		
-     "id": "8",		
-     "title": "Žerjavinec",		
-     "subtitle": "Omladinska ulica",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.872375,		
-     "coordinatesLongitude": 16.161919		
-   },		
-   {		
-     "id": "9",		
-     "title": "Domovinski most",		
-     "subtitle": "Sjeverna strana",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.77111,		
-     "coordinatesLongitude": 16.06904		
-   },		
-   {		
-     "id": "10",		
-     "title": "Kosnica",		
-     "subtitle": "A3 - prije čvorišta Kosnica(smjer zapad)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.754133,
-     "coordinatesLongitude": 16.07698	
-   },		
-   {		
-     "id": "11",		
-     "title": "Buzin",		
-     "subtitle": "Raskrižje s ulicom Mladosti",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.747903,		
-     "coordinatesLongitude": 15.992818	
-   },		
-   {		
-     "id": "12",		
-     "title": "Ivanja reka",		
-     "subtitle": "Prije čvorišta s Autocestom Bregana-Zagreb",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.802831,
-     "coordinatesLongitude": 16.118797	
-   },		
-   {		
-     "id": "13",		
-     "title": "Selska",		
-     "subtitle": "Križanje Selske i baruna Filipovića (smjer istoka)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.81172,		
-     "coordinatesLongitude": 15.94197		
-   },		
-   {		
-     "id": "14",		
-     "title": "Zeleni val",		
-     "subtitle": "Kod Mimare, križanje sa Savskom (smjer istoka)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.8089,		
-     "coordinatesLongitude": 15.96872		
-   },		
-   {		
-     "id": "15",		
-     "title": "Slavonska avenija #2",		
-     "subtitle": "Nakon petlje kod McDonaldsa u smjeru zapada (kod Kruge)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.79543,		
-     "coordinatesLongitude": 15.9909		
-   },		
-   {		
-     "id": "16",		
-     "title": "Čeglje D1",		
-     "subtitle": "Raskrižje kraj škole (smjer sjever)",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.62416,		
-     "coordinatesLongitude": 15.60288		
-   },		
-   {		
-     "id": "17",		
-     "title": "Pavučnjak D1 #2",		
-     "subtitle": "Iza semafora, smjer prema Zagrebu",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.69896,		
-     "coordinatesLongitude": 15.76503		
-   },		
-   {		
-     "id": "18",		
-     "title": "Zaprešić #1",		
-     "subtitle": "Kod benzinske crpke Tifon (Ulica Maršala Tita), izlaz iz Zaprešića prema Zagrebu",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.84379,		
-     "coordinatesLongitude": 15.81543		
-   },		
-   {		
-     "id": "19",		
-     "title": "Zaprešić #2",		
-     "subtitle": "Kod stadiona Intera s desne strane, smjer prema Zaprešiću",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.86759,		
-     "coordinatesLongitude": 15.80237		
-   },		
-   {		
-     "id": "20",		
-     "title": "Zaprešić #3",		
-     "subtitle": "Kod srednje škole (Ul. Dragutina Tadijanovića) snima pravac prema centru Zaprešića",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.87215,		
-     "coordinatesLongitude": 15.79461		
-   },		
-   {		
-     "id": "21",		
-     "title": "Zaprešić #4",		
-     "subtitle": "Brdovec – ravna dionica između groblja i srednje škole",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.86998,		
-     "coordinatesLongitude": 15.788		
-   },		
-   {		
-     "id": "22",		
-     "title": "Ivanec Bistranski",		
-     "subtitle": "Stubička ulica 35, u blizini gostione Marica",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.84533,		
-     "coordinatesLongitude": 15.83342		
-   },		
-   {		
-     "id": "23",		
-     "title": "Jadranovo",		
-     "subtitle": "Kod benzinske postaje Lukoil (smjer Rijeke)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.223602,		
-     "coordinatesLongitude": 14.636188		
-   },		
-   {		
-     "id": "24",		
-     "title": "Čvorište Diračje",		
-     "subtitle": "Prije čvorišta Diračje (smjer zapad)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.3477,		
-     "coordinatesLongitude": 14.3855		
-   },		
-   {		
-     "id": "25",		
-     "title": "Tunel Škurinje II",		
-     "subtitle": "Prije ulaza u tunel Škurinje II (smjer istok)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.3433,		
-     "coordinatesLongitude": 14.41249		
-   },		
-   {		
-     "id": "26",		
-     "title": "Selce",		
-     "subtitle": "Kod Spara (smjer Rijeke)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.165638,		
-     "coordinatesLongitude": 14.710817		
-   },		
-   {		
-     "id": "27",		
-     "title": "Liburnijska ulica",		
-     "subtitle": "Kod autobusne stanice 3. maj, prije željezničkog nadvožnjaka (smjer centra)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.3396247,		
-     "coordinatesLongitude": 14.3924955		
-   },		
-   {		
-     "id": "28",		
-     "title": "Ljubljanska cesta",		
-     "subtitle": "Kod kućnog broja 4 (smjer istok)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.35137,		
-     "coordinatesLongitude": 14.34514		
-   },		
-   {		
-     "id": "29",		
-     "title": "Nova cesta",		
-     "subtitle": "Kod Gradske toplane (smjer zapad)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.34184,		
-     "coordinatesLongitude": 14.39887		
-   },		
-   {		
-     "id": "30",		
-     "title": "Feričanci",		
-     "subtitle": "Ulica Petrovac 86 (smjer istok)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.530121,		
-     "coordinatesLongitude": 17.951361		
-   },		
-   {		
-     "id": "31",		
-     "title": "Podravska moslavina #1",		
-     "subtitle": "Ulica Josipa Jurja Strossmayera 107 (smjer istok)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.56425,		
-     "coordinatesLongitude": 18.66492		
-   },		
-   {		
-     "id": "32",		
-     "title": "Cret Bizovački #1",		
-     "subtitle": "Ulica Matije Gupca 38 (smjer zapad)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.57606,		
-     "coordinatesLongitude": 18.41576		
-   },		
-   {		
-     "id": "33",		
-     "title": "Cret Bizovački #2",		
-     "subtitle": "Ulica Matije Gupca 110 (smjer istok)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.57331,		
-     "coordinatesLongitude": 18.4084		
-   },		
-   {		
-     "id": "34",		
-     "title": "Retfala",		
-     "subtitle": "Ulica Josipa Jurja Strossmayera 239-320 (oba smjera)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.56467,		
-     "coordinatesLongitude": 18.64895		
-   },		
-   {		
-     "id": "35",		
-     "title": "Zapadna obilaznica",		
-     "subtitle": "D7 - kod raskrižja s Ulicom grada Vukovara – Čepin (oba smjera)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.53674,		
-     "coordinatesLongitude": 18.56101		
-   },		
-   {		
-     "id": "36",		
-     "title": "Čeminac #1",		
-     "subtitle": "Ulica Stjepana Radića 6 (smjer jug)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.68714,		
-     "coordinatesLongitude": 18.66886		
-   },		
-   {		
-     "id": "37",		
-     "title": "Čeminac #2",		
-     "subtitle": "Ulica Stjepana Radića 76 (smjer sjever)",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.67591,		
-     "coordinatesLongitude": 18.67729		
-   },		
-   {		
-     "id": "38",		
-     "title": "Podravska moslavina #2",		
-     "subtitle": "Ulica Josipa Jurja Strossmayera D34 95",		
-     "region": "Osječko-baranjska",		
-     "coordinatesLatitude": 45.78456,		
-     "coordinatesLongitude": 17.98069		
-   },		
-   {		
-     "id": "39",		
-     "title": "Draganić",		
-     "subtitle": "Cesta D1, potez Jastrebarsko – Karlovac",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.60113,		
-     "coordinatesLongitude": 15.59867		
-   },		
-   {		
-     "id": "40",		
-     "title": "Turanj",		
-     "subtitle": "Cesta D1, potez Karlovac – Budačka Rijeka, ispred Područne škole Vukmanički Cerovac",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.46327,		
-     "coordinatesLongitude": 15.56733		
-   },		
-   {		
-     "id": "41",		
-     "title": "Tušilović",		
-     "subtitle": "Cesta D1, potez Karlovac – Budačka Rijeka, ispred Područne škole Tušilović",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.38636,		
-     "coordinatesLongitude": 15.61397		
-   },		
-   {		
-     "id": "42",		
-     "title": "Slunj",		
-     "subtitle": "Cesta D1, potez Budačka Rijeka – Grabovac",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.10709,		
-     "coordinatesLongitude": 15.58603		
-   },		
-   {		
-     "id": "43",		
-     "title": "Rakovica",		
-     "subtitle": "Cesta D1, potez Budačka Rijeka – Grabovac",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 44.996,		
-     "coordinatesLongitude": 15.65103		
-   },		
-   {		
-     "id": "44",		
-     "title": "Brezova Glava",		
-     "subtitle": "Državna cesta D6, potez Brezova Glava – Vojnić",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.37079,		
-     "coordinatesLongitude": 15.60792		
-   },		
-   {		
-     "id": "45",		
-     "title": "Josipdol",		
-     "subtitle": "Senjska ulica 32, potez Josipdol – Jezerane",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.21406,		
-     "coordinatesLongitude": 15.31412		
-   },		
-   {		
-     "id": "46",		
-     "title": "Siča",		
-     "subtitle": "Cesta D42, potez Vrbovsko – Josipdol",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.35442,		
-     "coordinatesLongitude": 15.47166		
-   },		
-   {		
-     "id": "47",		
-     "title": "Dugopolje",		
-     "subtitle": "Autocesta Dugopolje-Split, u smjeru Splita (iza Croduxove benzinske postaje prije skretanja za Drniš)",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.57622,		
-     "coordinatesLongitude": 16.54167		
-   },		
-   {		
-     "id": "48",		
-     "title": "Dicmo",		
-     "subtitle": "Snima se u oba smjera",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.63542,		
-     "coordinatesLongitude": 16.59566		
-   },		
-   {		
-     "id": "49",		
-     "title": "Solin",		
-     "subtitle": "Kraj crkve sv. Kaje",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.54156,		
-     "coordinatesLongitude": 16.46421		
-   },		
-   {		
-     "id": "50",		
-     "title": "Ulica Zbora narodne garde",		
-     "subtitle": "Autocesta Split-Solin – kod prvog križanja za ulazak u Split, kraj INA-ine benzinske postaje",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.520995,		
-     "coordinatesLongitude": 16.483691		
-   },		
-   {		
-     "id": "51",		
-     "title": "Ulica Domovinskog rata #1",		
-     "subtitle": "Autocesta na Brdima",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.519151,		
-     "coordinatesLongitude": 16.472504		
-   },		
-   {		
-     "id": "52",		
-     "title": "Poljička cesta #1",		
-     "subtitle": "Snima smjer prema željezničkom kolodvoru",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.508304,		
-     "coordinatesLongitude": 16.472669		
-   },		
-   {		
-     "id": "53",		
-     "title": "Vukovarska ulica #2",		
-     "subtitle": "Snima se križanje Velebitske i Vukovarske ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.51396,		
-     "coordinatesLongitude": 16.4711		
-   },		
-   {		
-     "id": "54",		
-     "title": "Ulica Ivana Pavla II. #1",		
-     "subtitle": "Autocesta Solin – Kaštel, semafor kod Baumaxa",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.55121,		
-     "coordinatesLongitude": 16.41278		
-   },		
-   {		
-     "id": "55",		
-     "title": "Ulica Ivana Pavla II. #2",		
-     "subtitle": "Autocesta Solin – Kaštel",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.54083,		
-     "coordinatesLongitude": 16.46717		
-   },		
-   {		
-     "id": "56",		
-     "title": "Stobreč",		
-     "subtitle": "Križanje Jadranske magistrale i Ulice sv. Lovre",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.506318,		
-     "coordinatesLongitude": 16.527316		
-   },		
-   {		
-     "id": "57",		
-     "title": "D1 – državna cesta",		
-     "subtitle": "Državna cesta Dugopolje – Split, prije tunela Mačkovac, smjer Splita",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.544746,		
-     "coordinatesLongitude": 16.52848		
-   },		
-   {		
-     "id": "58",		
-     "title": "Hraščica",		
-     "subtitle": "Varaždinska ulica, D2",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.322906,		
-     "coordinatesLongitude": 16.299525		
-   },		
-   {		
-     "id": "59",		
-     "title": "Ulica Braće Radić",		
-     "subtitle": "Ispred broja 166",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.29854,		
-     "coordinatesLongitude": 16.31551		
-   },		
-   {		
-     "id": "60",		
-     "title": "Međimurska ulica",		
-     "subtitle": "Ispred broja 26B",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.31453,		
-     "coordinatesLongitude": 16.35099		
-   },		
-   {		
-     "id": "61",		
-     "title": "Brezje",		
-     "subtitle": "Ispred broja 222",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.28077,		
-     "coordinatesLongitude": 16.35012		
-   },		
-   {		
-     "id": "62",		
-     "title": "D510",		
-     "subtitle": "Smjer izlaska iz Varaždina",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.27316,		
-     "coordinatesLongitude": 16.36173		
-   },		
-   {		
-     "id": "63",		
-     "title": "D3",		
-     "subtitle": "Ispred broja 92a, smjer izlaska iz Varaždina",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.25417,		
-     "coordinatesLongitude": 16.36072		
-   },		
-   {		
-     "id": "64",		
-     "title": "Ludbreška ulica",		
-     "subtitle": "Ispred broja 24",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.29925,		
-     "coordinatesLongitude": 16.40013		
-   },		
-   {		
-     "id": "65",		
-     "title": "Zvonimirova ulica",		
-     "subtitle": "Kod benzinske postaje Crodux (snima smjer centra)",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.33554,		
-     "coordinatesLongitude": 14.41821		
-   },		
-   {		
-     "id": "66",		
-     "title": "Rujevica D427",		
-     "subtitle": "Novi dio ceste prema Marinićima",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.35489,		
-     "coordinatesLongitude": 14.39294		
-   },		
-   {		
-     "id": "67",		
-     "title": "Izlaz iz Splita",		
-     "subtitle": "Prije nadvožnjaka u smjeru Stobreča",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.50605,		
-     "coordinatesLongitude": 16.50835		
-   },		
-   {		
-     "id": "68",		
-     "title": "Makarska",		
-     "subtitle": "Kod Kingtrade-a",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.289847,		
-     "coordinatesLongitude": 17.029713		
-   },		
-   {		
-     "id": "69",		
-     "title": "Rotor Split",		
-     "subtitle": "Prije rotora iz smjera Klisa na odvajanju za Mravince",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.527928,		
-     "coordinatesLongitude": 16.496148		
-   },		
-   {		
-     "id": "70",		
-     "title": "Draga Bašćanska",		
-     "subtitle": "Kod kuće na kraju mjesta Draga Bašćanska",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 44.985947,		
-     "coordinatesLongitude": 14.7236		
-   },		
-   {		
-     "id": "71",		
-     "title": "Tomaševec Biskupečki",		
-     "subtitle": "Kod benzinske postaje INA",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.247959,		
-     "coordinatesLongitude": 16.356624		
-    },		
-    {		
-     "id": "72",		
-     "title": "Podmurvice",		
-     "subtitle": "Ulica Franje Čandeka 23A",		
-     "region": "Primorsko-goranska",		
-     "coordinatesLatitude": 45.3391527,		
-     "coordinatesLongitude": 14.4149421		
-    },		
-    {		
-     "id": "73",		
-     "title": "Aleja Bologne #2",		
-     "subtitle": "100m prije semafora(istok)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.815067,		
-     "coordinatesLongitude": 15.848784		
-    }	,		
-    {		
-     "id": "74",		
-     "title": "Sukošan",		
-     "subtitle": "Križanje ceste Testica i Put Oljica",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.038397,		
-     "coordinatesLongitude": 15.333105		
-    },		
-    {		
-     "id": "75",		
-     "title": "Biograd na Moru",		
-     "subtitle": "Na izlazu iz mjesta prema Pakoštanu",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 43.942518,		
-     "coordinatesLongitude": 15.457782		
-    },		
-    {		
-     "id": "76",		
-     "title": "Pakoštane",		
-     "subtitle": "Na izlazu prema mjestu Drage, nasuprot benzinske postaje Petrol",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 43.913152,		
-     "coordinatesLongitude": 15.511689		
-    },		
-    {		
-     "id": "77",		
-     "title": "Osoje",		
-     "subtitle": "Ulaz u mjesto Osoje iz smjera Splita",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.616888,		
-     "coordinatesLongitude": 16.597210		
-    },		
-    {		
-     "id": "78",		
-     "title": "Starigrad",		
-     "subtitle": "Kod Trga Stjepana Radića",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.294521,		
-     "coordinatesLongitude": 15.439478		
-    },		
-    {		
-     "id": "79",		
-     "title": "Bibinje",		
-     "subtitle": "Križanje Jadranske magistrale i ulice Ilije Smiljanića",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.068295,		
-     "coordinatesLongitude": 15.292038		
-    },		
-    {		
-     "id": "80",		
-     "title": "Poličnik",		
-     "subtitle": "Križanje Jadranske magistrale i ulice dr. Franje Tuđmana",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.174462,	
-     "coordinatesLongitude": 15.380367		
-    },		
-    {		
-     "id": "81",		
-     "title": "Posedarje",		
-     "subtitle": "Križanje Jadranske magistrale i ulice Petra Preradovića",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.213557,		
-     "coordinatesLongitude": 15.481256		
-    },		
-    {		
-     "id": "82",		
-     "title": "Sveti Petar",		
-     "subtitle": "Na izlazu iz Svetog Petra prema Sukošanu",		
-     "region": "Zadarska",		
-     "coordinatesLatitude": 44.021525,		
-     "coordinatesLongitude": 15.354063		
-    },		
-    {		
-     "id": "83",		
-     "title": "Podaca",		
-     "subtitle": "Jadranska magistrala",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.123362,	
-     "coordinatesLongitude": 17.303069		
-    },		
-    {		
-     "id": "84",		
-     "title": "Podgora",		
-     "subtitle": "Na izlazu iz mjesta prema Drašnicama",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.232411,	
-     "coordinatesLongitude": 17.088841		
-    },		
-    {		
-     "id": "85",		
-     "title": "Ruskamen",		
-     "subtitle": "Na izlazu iz mjesta prema Čelini",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.408612,		
-     "coordinatesLongitude": 16.751073		
-    },		
-    {		
-     "id": "86",		
-     "title": "Seget Vranjica",		
-     "subtitle": "Na ulazu u mjesto prema Trogiru",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.513681,		
-     "coordinatesLongitude": 16.184068		
-    },		
-    {		
-     "id": "87",		
-     "title": "Poljička cesta #2",		
-     "subtitle": "Križanje Poljičke ceste i Velebitske ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.509289,		
-     "coordinatesLongitude": 16.475387		
-    },		
-    {		
-     "id": "88",		
-     "title": "Vukovarska ulica #1",		
-     "subtitle": "Križanje Vukovarske ulice i Ninske ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.514518,		
-     "coordinatesLongitude": 16.474394		
-    },		
-    {		
-     "id": "89",		
-     "title": "Ulica Domovinskog rata #2",		
-     "subtitle": "Križanje Ulice Domovinskog rata i Solinske ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.520003,		
-     "coordinatesLongitude": 16.462228		
-    },		
-    {		
-     "id": "90",		
-     "title": "Vukovarska ulica #4",		
-     "subtitle": "Križanje Vukovarske ulice i Dubrovačke ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.511332,		
-     "coordinatesLongitude": 16.454483		
-    },		
-    {		
-     "id": "91",		
-     "title": "Ulica Bruna Bušića",		
-     "subtitle": "Križanje Ulice Bruna Bušića i Ulice Jurja Šižgorića",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.511137,		
-     "coordinatesLongitude": 16.462434		
-    },		
-    {		
-     "id": "92",		
-     "title": "Vukovarska ulica #3",		
-     "subtitle": "Križanje Vukovarske ulice i Vukovarske ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.513172,		
-     "coordinatesLongitude": 16.466064		
-    },		
-    {		
-     "id": "93",		
-     "title": "Ulica Domovinskog rata #3",		
-     "subtitle": "Križanje Ulice Domovinskog rata i Dubrovačke ulice",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.519683,		
-     "coordinatesLongitude": 16.449425		
-    },		
-    {		
-     "id": "94",		
-     "title": "Ulica Domovinskog rata #4",		
-     "subtitle": "Križanje Ulice Domovinskog rata i Ulice slobode",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.516921,		
-     "coordinatesLongitude": 16.445820		
-    },		
-    {		
-     "id": "95",		
-     "title": "Ulica Domovinskog rata #5",		
-     "subtitle": "Križanje Ulice Domovinskog rata i Mažuranićevog šetališta",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.514672,		
-     "coordinatesLongitude": 16.443560		
-    },		
-    {		
-     "id": "96",		
-     "title": "Ulica Antuna Gustava Matoša",		
-     "subtitle": "Križanje Ulice Antuna Gustava Matoša i Prilaza Vladimira Nazora",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.513005,		
-     "coordinatesLongitude": 16.432415		
-    },		
-    {		
-     "id": "97",		
-     "title": "Ulica kneza Trpimira",		
-     "subtitle": "Križanje Ulice kneza Trpimira i Ulice Ante Starčevića",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.547699,		
-     "coordinatesLongitude": 16.494282		
-    },		
-    {		
-     "id": "98",		
-     "title": "Čaporice",		
-     "subtitle": "Na izlazu iz mjesta Čaporice prema Ugljanu",		
-     "region": "Splitsko-dalmatinska",		
-     "coordinatesLatitude": 43.590799,		
-     "coordinatesLongitude": 16.735096		
-    },		
-    {		
-     "id": "99",		
-     "title": "Savska cesta #1",		
-     "subtitle": "Križanje Savske ceste i Ulice Izidora Kršnjavog",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.807313,		
-     "coordinatesLongitude": 15.967714		
-    },		
-    {		
-     "id": "100",		
-     "title": "Savska cesta #2",		
-     "subtitle": "Križanje Savske ceste i Ulice grada Vukovara",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.799512,		
-     "coordinatesLongitude": 15.962274		
-    },		
-    {		
-     "id": "101",		
-     "title": "Trg Josipa Jurja Strossmayera #1",		
-     "subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer jug)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.808777,	
-     "coordinatesLongitude": 15.979225		
-    },		
-    {		
-     "id": "102",		
-     "title": "Trg Josipa Jurja Strossmayera #2",		
-     "subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer sjever)",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.810247,	
-     "coordinatesLongitude": 15.977600		
-    },		
-    {		
-     "id": "103",		
-     "title": "Avenija Marina Držića #2",		
-     "subtitle": "Križanje Avenije Marina Držića i Ulice kneza Branimira",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.806248,	
-     "coordinatesLongitude": 15.992461		
-    },		
-    {		
-     "id": "104",		
-     "title": "Zagrebačka ulica",		
-     "subtitle": "Križanje Zagrebačke ulice i Ulice kneza Branimira",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.826548,	
-     "coordinatesLongitude": 16.083271		
-    },		
-    {		
-     "id": "105",		
-     "title": "Sesvete",		
-     "subtitle": "Križanje Zagrebačke ulice i Bistričke ulice",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.827632,	
-     "coordinatesLongitude": 16.106527		
-    },		
-    {		
-     "id": "106",		
-     "title": "Sesvetski kraljevec",		
-     "subtitle": "Križanje Dugoselske ulice i Ulice Bedema ljubavi",		
-     "region": "Zagrebačka +Grad Zagreb",		
-     "coordinatesLatitude": 45.814613,	
-     "coordinatesLongitude": 16.183600		
-    },		
-    {
-     "id": "107",		
-     "title": "Zaton Doli",		
-     "subtitle": "Na izlazu iz mjesta prema Dubrovniku",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.828846,	
-     "coordinatesLongitude": 17.753739	
-    },		
-    {		
-     "id": "108",		
-     "title": "Brsečine",		
-     "subtitle": "Kod križanja Jadranske magistrale i Ulice Podubrava",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.728635,	
-     "coordinatesLongitude": 17.957667	
-    },		
-    {		
-     "id": "109",		
-     "title": "Ploče",		
-     "subtitle": "Na ulazu u Ploče u smjeru Splita",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 43.056511,	
-     "coordinatesLongitude": 17.444700	
-    },		
-    {		
-     "id": "110",		
-     "title": "Dubrovnik",		
-     "subtitle": "Križanje Jadranske magistrale sa Sinjskom ulicom",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.651631,	
-     "coordinatesLongitude": 18.098567	
-    },		
-    {		
-     "id": "111",		
-     "title": "Gruda",		
-     "subtitle": "Jadranska magistrala u smjeru Crne Gore",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.515915,
-     "coordinatesLongitude": 18.372354	
-    },		
-    {		
-     "id": "112",		
-     "title": "Plat",		
-     "subtitle": "Kod križanja Jadranske magistrale s ulicom Pod Gospom",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 42.609815,	
-     "coordinatesLongitude": 18.228501	
-    },		
-    {		
-     "id": "113",		
-     "title": "Metković #1",		
-     "subtitle": "Splitska ulica, kod trgovine Gorenje",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 43.052659,	
-     "coordinatesLongitude": 17.634900	
-    },		
-    {		
-     "id": "114",		
-     "title": "Metković #2",		
-     "subtitle": "Ulica Zrinskih i Frnakopana 125",		
-     "region": "Dubrovačko-neretvanska",		
-     "coordinatesLatitude": 43.050216,	
-     "coordinatesLongitude": 17.626372	
-    },		
-    {		
-     "id": "115",		
-     "title": "Pirovac",		
-     "subtitle": "Križanje Jadranske magistrale i Zagrebačke ulice",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.824716,	
-     "coordinatesLongitude": 15.659346
-    },		
-    {		
-     "id": "116",		
-     "title": "Vodice #1",		
-     "subtitle": "Jadranska magistrala, kod Lidla",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.767537,	
-     "coordinatesLongitude": 15.770914
-    },		
-    {		
-     "id": "117",		
-     "title": "Vodice #2",		
-     "subtitle": "Jadranska magistrala, kod Dental Centra Dubravica",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.764444,
-     "coordinatesLongitude": 15.794667	
-    },
-    {		
-     "id": "119",		
-     "title": "Vodice #3",		
-     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Pirovcu",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.775026,
-     "coordinatesLongitude": 15.779835	
-    },
-    {		
-     "id": "120",		
-     "title": "Vodice #4",		
-     "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.769389,
-     "coordinatesLongitude": 15.797144	
-    },
-    {		
-     "id": "121",		
-     "title": "Šibenik",		
-     "subtitle": "Jadranska magistrala, kod Plodina",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.753901,
-     "coordinatesLongitude": 15.882154	
-    },
-    {		
-     "id": "122",		
-     "title": "Stupin Čelina, Rogoznica",		
-     "subtitle": "Kod križanja Jadranske magistrale s Putom Kapele",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.540768,
-     "coordinatesLongitude": 15.988797	
-    },
-    {		
-     "id": "123",		
-     "title": "Podorljak",		
-     "subtitle": "Jadranska magistrala, kod skretanja za Dvornicu",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.530334,
-     "coordinatesLongitude": 16.026937	
-    },
-    {		
-     "id": "124",		
-     "title": "Čvorište Dubrava kod Šibenika",		
-     "subtitle": "D33 – smjer Tromilja",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.737985,
-     "coordinatesLongitude": 15.936275	
-    },
-    {		
-     "id": "125",		
-     "title": "Bilo",		
-     "subtitle": "Jadranska magistrala, u smjeru od Šibenika prema Splitu",		
-     "region": "Šibensko-kninska",		
-     "coordinatesLatitude": 43.625276,
-     "coordinatesLongitude": 15.920206	
-    },
-    {		
-     "id": "126",		
-     "title": "Pitomača",		
-     "subtitle": "D2 – Ulica Ljudevita Gaja kod kućnog broja 167",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.942825,
-     "coordinatesLongitude": 17.240668	
-    },
-    {		
-     "id": "127",		
-     "title": "Stari Gradac",		
-     "subtitle": "D2 – Ulica Matije Gupca kod kućnog broja 7",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.925418,
-     "coordinatesLongitude": 17.289063	
-    },
-    {		
-     "id": "128",		
-     "title": "Kapela Dvor",		
-     "subtitle": "D5 – kod kućnog broja 29",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.889964,
-     "coordinatesLongitude": 17.420482	
-    },
-    {		
-     "id": "129",		
-     "title": "Virovitica",		
-     "subtitle": "D5 – Virovitička obilaznica, u smjeru Lukača",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.851310,
-     "coordinatesLongitude": 17.380516	
-    },
-    {		
-     "id": "130",		
-     "title": "Suhopolje",		
-     "subtitle": "D2 – Vukovarska ulica kod kućnog broja 77",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.794651,
-     "coordinatesLongitude": 17.507113	
-    },
-    {		
-     "id": "131",		
-     "title": "Slatina",		
-     "subtitle": "D34 – Ulica Vladimira Nazora kod kućnog broja 261",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.723855,
-     "coordinatesLongitude": 17.724309	
-    },
-    {		
-     "id": "132",		
-     "title": "Šaševo",		
-     "subtitle": "D34 – Ulica Šaševo kod kućnog broja 9",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.744211,
-     "coordinatesLongitude": 17.834268	
-    },
-    {		
-     "id": "133",		
-     "title": "Čađavački Lug",		
-     "subtitle": "D34 – kod kućnog broja 55",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.754636,
-     "coordinatesLongitude": 17.906016	
-    },
-    {		
-     "id": "134",		
-     "title": "Bukovački Antunovac",		
-     "subtitle": "D2 – kod kućnog broja 80",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.634735,
-     "coordinatesLongitude": 17.794615	
-    },
-    {		
-     "id": "135",		
-     "title": "Čačinci",		
-     "subtitle": "D2 – Vukovarska ulica kod kućnog broja 62",		
-     "region": "Virovitičko-podravska",		
-     "coordinatesLatitude": 45.599710,
-     "coordinatesLongitude": 17.851172	
-    },
-    {		
-     "id": "136",		
-     "title": "Cvetkovec",		
-     "subtitle": "D2 – Varaždinska ulica kod kućnog broja 2 – prema Ludbregu",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.208876,
-     "coordinatesLongitude": 16.697508	
-    },
-    {		
-     "id": "137",		
-     "title": "Koprivnica",		
-     "subtitle": "D2 – Varaždinska ulica kod kućnog broja 2",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.168592,
-     "coordinatesLongitude": 16.817906
-    },
-    {		
-     "id": "138",		
-     "title": "Glogovac",		
-     "subtitle": "D2 – Koprivnička ulica kod kućnog broja 8",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.120870,
-     "coordinatesLongitude": 16.878690	
-    },
-    {		
-     "id": "139",		
-     "title": "Novigrad Podravski",		
-     "subtitle": "D2 – Koprivnička ulica kod kućnog broja 146",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.087662,
-     "coordinatesLongitude": 16.946990	
-    },
-    {		
-     "id": "140",		
-     "title": "Hampovica",		
-     "subtitle": "D43 – Ulica Šimuna Pandura kodkućnog broja 80",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.015696,
-     "coordinatesLongitude": 16.952230	
-    },
-    {		
-     "id": "141",		
-     "title": "Sveti Ivan Žabno",		
-     "subtitle": "D28 – Ulica braće Radić, kod kućnog broja 32",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.158321,
-     "coordinatesLongitude": 16.836562	
-    },
-    {		
-     "id": "142",		
-     "title": "Kenđelovec",		
-     "subtitle": "D28 – kod kućnog broja 15",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 45.948419,
-     "coordinatesLongitude": 16.673013	
-    },
-    {		
-     "id": "143",		
-     "title": "Križevci #1",		
-     "subtitle": "Ulica Petra Zrinskog, preko puta JYSK-a",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.022567,
-     "coordinatesLongitude": 16.548327
-    },
-    {		
-     "id": "144",		
-     "title": "Križevci #2",		
-     "subtitle": "Kalnička ulica, na ulazu u Križevce",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.039900,
-     "coordinatesLongitude": 16.532647
-    },
-    {		
-     "id": "145",		
-     "title": "Karane",		
-     "subtitle": "Koruška ulica, na ulazu u mjesto Karane",		
-     "region": "Koprivničko-križevačka",		
-     "coordinatesLatitude": 46.017092, 
-     "coordinatesLongitude": 16.526837	
-    },
-    {		
-     "id": "146",		
-     "title": "Varaždin",		
-     "subtitle": "Koprivnička ulica 4B, pored tvrtke Vizor – dva kućišta",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.314808, 
-     "coordinatesLongitude": 16.347383 	
-    },
-    {		
-     "id": "147",		
-     "title": "Varaždinska obilaznica",		
-     "subtitle": "D2 – istočna varaždinska obilaznica, kod tvrtke Solvis – dva kućišta",		
-     "region": "Varaždinska",		
-     "coordinatesLatitude": 46.273407, 
-     "coordinatesLongitude": 16.361751
-    },
-    {		
-     "id": "148",		
-     "title": "Josipdol #2",		
-     "subtitle": "Senjska ulica",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.181488, 
-     "coordinatesLongitude": 15.287607
-    },
-    {		
-     "id": "149",		
-     "title": "Cerovac Vukmanićki",		
-     "subtitle": "Cerovac Vukmanićki 60A",		
-     "region": "Karlovačka",		
-     "coordinatesLatitude": 45.426483, 
-     "coordinatesLongitude": 15.605875
-    }
- ]
+{		
+"id": "0",		
+"title": "Kostrena D8",		
+"subtitle": "50 metara nakon križanja Doričići (smjer jug)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.30173,		
+"coordinatesLongitude": 14.50294		
+},		
+{		
+"id": "1",		
+"title": "Tunel Pećine",		
+"subtitle": "Prije isključenja za Tower centar (smjer istok)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.31814,		
+"coordinatesLongitude": 14.46977		
+},		
+{		
+"id": "2",		
+"title": "Slavonska avenija #1",		
+"subtitle": "Kod križanja sa Ulicom Milana Sachsa (smjer istok)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.7963,		
+"coordinatesLongitude": 16.01004		
+},		
+{		
+"id": "3",		
+"title": "Avenija Marina Držića #1",		
+"subtitle": "Ispred petlje sa Slavonskom avenijom (smjer jug)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.79791,		
+"coordinatesLongitude": 15.99765		
+},		
+{		
+"id": "4",		
+"title": "Slavonska avenija #3",		
+"subtitle": "Ispred podvožnjaka Savska (smjer zapad)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.79407,		
+"coordinatesLongitude": 15.96141		
+},		
+{		
+"id": "5",		
+"title": "Aleja Bologne #1",		
+"subtitle": "U oba smjera na trasi Gajnice-Zaprešić",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.81387,		
+"coordinatesLongitude": 15.86995		
+},		
+{		
+"id": "6",		
+"title": "Ulica Dubrava",		
+"subtitle": "Kod križanja s Ulicom Druge Poljanice (smjer zapad)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.82856,		
+"coordinatesLongitude": 16.07094		
+},		
+{		
+"id": "7",		
+"title": "Pavučnjak D1 #1",		
+"subtitle": "Kod kućnog broja 59 (smjer jug)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.75557,		
+"coordinatesLongitude": 15.8325		
+},		
+{		
+"id": "8",		
+"title": "Žerjavinec",		
+"subtitle": "Omladinska ulica",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.872375,		
+"coordinatesLongitude": 16.161919		
+},		
+{		
+"id": "9",		
+"title": "Domovinski most",		
+"subtitle": "Sjeverna strana",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.77111,		
+"coordinatesLongitude": 16.06904		
+},		
+{		
+"id": "10",		
+"title": "Kosnica",		
+"subtitle": "A3 - prije čvorišta Kosnica(smjer zapad)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.754133,
+"coordinatesLongitude": 16.07698	
+},		
+{		
+"id": "11",		
+"title": "Buzin",		
+"subtitle": "Raskrižje s ulicom Mladosti",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.747903,		
+"coordinatesLongitude": 15.992818	
+},		
+{		
+"id": "12",		
+"title": "Ivanja reka",		
+"subtitle": "Prije čvorišta s Autocestom Bregana-Zagreb",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.802831,
+"coordinatesLongitude": 16.118797	
+},		
+{		
+"id": "13",		
+"title": "Selska",		
+"subtitle": "Križanje Selske i baruna Filipovića (smjer istoka)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.81172,		
+"coordinatesLongitude": 15.94197		
+},		
+{		
+"id": "14",		
+"title": "Zeleni val",		
+"subtitle": "Kod Mimare, križanje sa Savskom (smjer istoka)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.8089,		
+"coordinatesLongitude": 15.96872		
+},		
+{		
+"id": "15",		
+"title": "Slavonska avenija #2",		
+"subtitle": "Nakon petlje kod McDonaldsa u smjeru zapada (kod Kruge)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.79543,		
+"coordinatesLongitude": 15.9909		
+},		
+{		
+"id": "16",		
+"title": "Čeglje D1",		
+"subtitle": "Raskrižje kraj škole (smjer sjever)",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.62416,		
+"coordinatesLongitude": 15.60288		
+},		
+{		
+"id": "17",		
+"title": "Pavučnjak D1 #2",		
+"subtitle": "Iza semafora, smjer prema Zagrebu",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.69896,		
+"coordinatesLongitude": 15.76503		
+},		
+{		
+"id": "18",		
+"title": "Zaprešić #1",		
+"subtitle": "Kod benzinske crpke Tifon (Ulica Maršala Tita), izlaz iz Zaprešića prema Zagrebu",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.84379,		
+"coordinatesLongitude": 15.81543		
+},		
+{		
+"id": "19",		
+"title": "Zaprešić #2",		
+"subtitle": "Kod stadiona Intera s desne strane, smjer prema Zaprešiću",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.86759,		
+"coordinatesLongitude": 15.80237		
+},		
+{		
+"id": "20",		
+"title": "Zaprešić #3",		
+"subtitle": "Kod srednje škole (Ul. Dragutina Tadijanovića) snima pravac prema centru Zaprešića",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.87215,		
+"coordinatesLongitude": 15.79461		
+},		
+{		
+"id": "21",		
+"title": "Zaprešić #4",		
+"subtitle": "Brdovec – ravna dionica između groblja i srednje škole",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.86998,		
+"coordinatesLongitude": 15.788		
+},		
+{		
+"id": "22",		
+"title": "Ivanec Bistranski",		
+"subtitle": "Stubička ulica 35, u blizini gostione Marica",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.84533,		
+"coordinatesLongitude": 15.83342		
+},		
+{		
+"id": "23",		
+"title": "Jadranovo",		
+"subtitle": "Kod benzinske postaje Lukoil (smjer Rijeke)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.223602,		
+"coordinatesLongitude": 14.636188		
+},		
+{		
+"id": "24",		
+"title": "Čvorište Diračje",		
+"subtitle": "Prije čvorišta Diračje (smjer zapad)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.3477,		
+"coordinatesLongitude": 14.3855		
+},		
+{		
+"id": "25",		
+"title": "Tunel Škurinje II",		
+"subtitle": "Prije ulaza u tunel Škurinje II (smjer istok)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.3433,		
+"coordinatesLongitude": 14.41249		
+},		
+{		
+"id": "26",		
+"title": "Selce",		
+"subtitle": "Kod Spara (smjer Rijeke)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.165638,		
+"coordinatesLongitude": 14.710817		
+},		
+{		
+"id": "27",		
+"title": "Liburnijska ulica",		
+"subtitle": "Kod autobusne stanice 3. maj, prije željezničkog nadvožnjaka (smjer centra)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.3396247,		
+"coordinatesLongitude": 14.3924955		
+},		
+{		
+"id": "28",		
+"title": "Ljubljanska cesta",		
+"subtitle": "Kod kućnog broja 4 (smjer istok)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.35137,		
+"coordinatesLongitude": 14.34514		
+},		
+{		
+"id": "29",		
+"title": "Nova cesta",		
+"subtitle": "Kod Gradske toplane (smjer zapad)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.34184,		
+"coordinatesLongitude": 14.39887		
+},		
+{		
+"id": "30",		
+"title": "Feričanci",		
+"subtitle": "Ulica Petrovac 86 (smjer istok)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.530121,		
+"coordinatesLongitude": 17.951361		
+},		
+{		
+"id": "31",		
+"title": "Podravska moslavina #1",		
+"subtitle": "Ulica Josipa Jurja Strossmayera 107 (smjer istok)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.56425,		
+"coordinatesLongitude": 18.66492		
+},		
+{		
+"id": "32",		
+"title": "Cret Bizovački #1",		
+"subtitle": "Ulica Matije Gupca 38 (smjer zapad)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.57606,		
+"coordinatesLongitude": 18.41576		
+},		
+{		
+"id": "33",		
+"title": "Cret Bizovački #2",		
+"subtitle": "Ulica Matije Gupca 110 (smjer istok)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.57331,		
+"coordinatesLongitude": 18.4084		
+},		
+{		
+"id": "34",		
+"title": "Retfala",		
+"subtitle": "Ulica Josipa Jurja Strossmayera 239-320 (oba smjera)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.56467,		
+"coordinatesLongitude": 18.64895		
+},		
+{		
+"id": "35",		
+"title": "Zapadna obilaznica",		
+"subtitle": "D7 - kod raskrižja s Ulicom grada Vukovara – Čepin (oba smjera)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.53674,		
+"coordinatesLongitude": 18.56101		
+},		
+{		
+"id": "36",		
+"title": "Čeminac #1",		
+"subtitle": "Ulica Stjepana Radića 6 (smjer jug)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.68714,		
+"coordinatesLongitude": 18.66886		
+},		
+{		
+"id": "37",		
+"title": "Čeminac #2",		
+"subtitle": "Ulica Stjepana Radića 76 (smjer sjever)",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.67591,		
+"coordinatesLongitude": 18.67729		
+},		
+{		
+"id": "38",		
+"title": "Podravska moslavina #2",		
+"subtitle": "Ulica Josipa Jurja Strossmayera D34 95",		
+"region": "Osječko-baranjska",		
+"coordinatesLatitude": 45.78456,		
+"coordinatesLongitude": 17.98069		
+},		
+{		
+"id": "39",		
+"title": "Draganić",		
+"subtitle": "Cesta D1, potez Jastrebarsko – Karlovac",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.60113,		
+"coordinatesLongitude": 15.59867		
+},		
+{		
+"id": "40",		
+"title": "Turanj",		
+"subtitle": "Cesta D1, potez Karlovac – Budačka Rijeka, ispred Područne škole Vukmanički Cerovac",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.46327,		
+"coordinatesLongitude": 15.56733		
+},		
+{		
+"id": "41",		
+"title": "Tušilović",		
+"subtitle": "Cesta D1, potez Karlovac – Budačka Rijeka, ispred Područne škole Tušilović",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.38636,		
+"coordinatesLongitude": 15.61397		
+},		
+{		
+"id": "42",		
+"title": "Slunj",		
+"subtitle": "Cesta D1, potez Budačka Rijeka – Grabovac",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.10709,		
+"coordinatesLongitude": 15.58603		
+},		
+{		
+"id": "43",		
+"title": "Rakovica",		
+"subtitle": "Cesta D1, potez Budačka Rijeka – Grabovac",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 44.996,		
+"coordinatesLongitude": 15.65103		
+},		
+{		
+"id": "44",		
+"title": "Brezova Glava",		
+"subtitle": "Državna cesta D6, potez Brezova Glava – Vojnić",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.37079,		
+"coordinatesLongitude": 15.60792		
+},		
+{		
+"id": "45",		
+"title": "Josipdol",		
+"subtitle": "Senjska ulica 32, potez Josipdol – Jezerane",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.21406,		
+"coordinatesLongitude": 15.31412		
+},		
+{		
+"id": "46",		
+"title": "Siča",		
+"subtitle": "Cesta D42, potez Vrbovsko – Josipdol",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.35442,		
+"coordinatesLongitude": 15.47166		
+},		
+{		
+"id": "47",		
+"title": "Dugopolje",		
+"subtitle": "Autocesta Dugopolje-Split, u smjeru Splita (iza Croduxove benzinske postaje prije skretanja za Drniš)",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.57622,		
+"coordinatesLongitude": 16.54167		
+},		
+{		
+"id": "48",		
+"title": "Dicmo",		
+"subtitle": "Snima se u oba smjera",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.63542,		
+"coordinatesLongitude": 16.59566		
+},		
+{		
+"id": "49",		
+"title": "Solin",		
+"subtitle": "Kraj crkve sv. Kaje",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.54156,		
+"coordinatesLongitude": 16.46421		
+},		
+{		
+"id": "50",		
+"title": "Ulica Zbora narodne garde",		
+"subtitle": "Autocesta Split-Solin – kod prvog križanja za ulazak u Split, kraj INA-ine benzinske postaje",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.520995,		
+"coordinatesLongitude": 16.483691		
+},		
+{		
+"id": "51",		
+"title": "Ulica Domovinskog rata #1",		
+"subtitle": "Autocesta na Brdima",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.519151,		
+"coordinatesLongitude": 16.472504		
+},		
+{		
+"id": "52",		
+"title": "Poljička cesta #1",		
+"subtitle": "Snima smjer prema željezničkom kolodvoru",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.508304,		
+"coordinatesLongitude": 16.472669		
+},		
+{		
+"id": "53",		
+"title": "Vukovarska ulica #2",		
+"subtitle": "Snima se križanje Velebitske i Vukovarske ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.51396,		
+"coordinatesLongitude": 16.4711		
+},		
+{		
+"id": "54",		
+"title": "Ulica Ivana Pavla II. #1",		
+"subtitle": "Autocesta Solin – Kaštel, semafor kod Baumaxa",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.55121,		
+"coordinatesLongitude": 16.41278		
+},		
+{		
+"id": "55",		
+"title": "Ulica Ivana Pavla II. #2",		
+"subtitle": "Autocesta Solin – Kaštel",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.54083,		
+"coordinatesLongitude": 16.46717		
+},		
+{		
+"id": "56",		
+"title": "Stobreč",		
+"subtitle": "Križanje Jadranske magistrale i Ulice sv. Lovre",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.506318,		
+"coordinatesLongitude": 16.527316		
+},		
+{		
+"id": "57",		
+"title": "D1 – državna cesta",		
+"subtitle": "Državna cesta Dugopolje – Split, prije tunela Mačkovac, smjer Splita",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.544746,		
+"coordinatesLongitude": 16.52848		
+},		
+{		
+"id": "58",		
+"title": "Hraščica",		
+"subtitle": "Varaždinska ulica, D2",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.322906,		
+"coordinatesLongitude": 16.299525		
+},		
+{		
+"id": "59",		
+"title": "Ulica Braće Radić",		
+"subtitle": "Ispred broja 166",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.29854,		
+"coordinatesLongitude": 16.31551		
+},		
+{		
+"id": "60",		
+"title": "Međimurska ulica",		
+"subtitle": "Ispred broja 26B",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.31453,		
+"coordinatesLongitude": 16.35099		
+},		
+{		
+"id": "61",		
+"title": "Brezje",		
+"subtitle": "Ispred broja 222",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.28077,		
+"coordinatesLongitude": 16.35012		
+},		
+{		
+"id": "62",		
+"title": "D510",		
+"subtitle": "Smjer izlaska iz Varaždina",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.27316,		
+"coordinatesLongitude": 16.36173		
+},		
+{		
+"id": "63",		
+"title": "D3",		
+"subtitle": "Ispred broja 92a, smjer izlaska iz Varaždina",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.25417,		
+"coordinatesLongitude": 16.36072		
+},		
+{		
+"id": "64",		
+"title": "Ludbreška ulica",		
+"subtitle": "Ispred broja 24",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.29925,		
+"coordinatesLongitude": 16.40013		
+},		
+{		
+"id": "65",		
+"title": "Zvonimirova ulica",		
+"subtitle": "Kod benzinske postaje Crodux (snima smjer centra)",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.33554,		
+"coordinatesLongitude": 14.41821		
+},		
+{		
+"id": "66",		
+"title": "Rujevica D427",		
+"subtitle": "Novi dio ceste prema Marinićima",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.35489,		
+"coordinatesLongitude": 14.39294		
+},		
+{		
+"id": "67",		
+"title": "Izlaz iz Splita",		
+"subtitle": "Prije nadvožnjaka u smjeru Stobreča",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.50605,		
+"coordinatesLongitude": 16.50835		
+},		
+{		
+"id": "68",		
+"title": "Makarska",		
+"subtitle": "Kod Kingtrade-a",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.289847,		
+"coordinatesLongitude": 17.029713		
+},		
+{		
+"id": "69",		
+"title": "Rotor Split",		
+"subtitle": "Prije rotora iz smjera Klisa na odvajanju za Mravince",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.527928,		
+"coordinatesLongitude": 16.496148		
+},		
+{		
+"id": "70",		
+"title": "Draga Bašćanska",		
+"subtitle": "Kod kuće na kraju mjesta Draga Bašćanska",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 44.985947,		
+"coordinatesLongitude": 14.7236		
+},		
+{		
+"id": "71",		
+"title": "Tomaševec Biskupečki",		
+"subtitle": "Kod benzinske postaje INA",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.247959,		
+"coordinatesLongitude": 16.356624		
+},		
+{		
+"id": "72",		
+"title": "Podmurvice",		
+"subtitle": "Ulica Franje Čandeka 23A",		
+"region": "Primorsko-goranska",		
+"coordinatesLatitude": 45.3391527,		
+"coordinatesLongitude": 14.4149421		
+},		
+{		
+"id": "73",		
+"title": "Aleja Bologne #2",		
+"subtitle": "100m prije semafora(istok)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.815067,		
+"coordinatesLongitude": 15.848784		
+}	,		
+{		
+"id": "74",		
+"title": "Sukošan",		
+"subtitle": "Križanje ceste Testica i Put Oljica",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.038397,		
+"coordinatesLongitude": 15.333105		
+},		
+{		
+"id": "75",		
+"title": "Biograd na Moru",		
+"subtitle": "Na izlazu iz mjesta prema Pakoštanu",		
+"region": "Zadarska",		
+"coordinatesLatitude": 43.942518,		
+"coordinatesLongitude": 15.457782		
+},		
+{		
+"id": "76",		
+"title": "Pakoštane",		
+"subtitle": "Na izlazu prema mjestu Drage, nasuprot benzinske postaje Petrol",		
+"region": "Zadarska",		
+"coordinatesLatitude": 43.913152,		
+"coordinatesLongitude": 15.511689		
+},		
+{		
+"id": "77",		
+"title": "Osoje",		
+"subtitle": "Ulaz u mjesto Osoje iz smjera Splita",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.616888,		
+"coordinatesLongitude": 16.597210		
+},		
+{		
+"id": "78",		
+"title": "Starigrad",		
+"subtitle": "Kod Trga Stjepana Radića",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.294521,		
+"coordinatesLongitude": 15.439478		
+},		
+{		
+"id": "79",		
+"title": "Bibinje",		
+"subtitle": "Križanje Jadranske magistrale i ulice Ilije Smiljanića",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.068295,		
+"coordinatesLongitude": 15.292038		
+},		
+{		
+"id": "80",		
+"title": "Poličnik",		
+"subtitle": "Križanje Jadranske magistrale i ulice dr. Franje Tuđmana",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.174462,	
+"coordinatesLongitude": 15.380367		
+},		
+{		
+"id": "81",		
+"title": "Posedarje",		
+"subtitle": "Križanje Jadranske magistrale i ulice Petra Preradovića",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.213557,		
+"coordinatesLongitude": 15.481256		
+},		
+{		
+"id": "82",		
+"title": "Sveti Petar",		
+"subtitle": "Na izlazu iz Svetog Petra prema Sukošanu",		
+"region": "Zadarska",		
+"coordinatesLatitude": 44.021525,		
+"coordinatesLongitude": 15.354063		
+},		
+{		
+"id": "83",		
+"title": "Podaca",		
+"subtitle": "Jadranska magistrala",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.123362,	
+"coordinatesLongitude": 17.303069		
+},		
+{		
+"id": "84",		
+"title": "Podgora",		
+"subtitle": "Na izlazu iz mjesta prema Drašnicama",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.232411,	
+"coordinatesLongitude": 17.088841		
+},		
+{		
+"id": "85",		
+"title": "Ruskamen",		
+"subtitle": "Na izlazu iz mjesta prema Čelini",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.408612,		
+"coordinatesLongitude": 16.751073		
+},		
+{		
+"id": "86",		
+"title": "Seget Vranjica",		
+"subtitle": "Na ulazu u mjesto prema Trogiru",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.513681,		
+"coordinatesLongitude": 16.184068		
+},		
+{		
+"id": "87",		
+"title": "Poljička cesta #2",		
+"subtitle": "Križanje Poljičke ceste i Velebitske ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.509289,		
+"coordinatesLongitude": 16.475387		
+},		
+{		
+"id": "88",		
+"title": "Vukovarska ulica #1",		
+"subtitle": "Križanje Vukovarske ulice i Ninske ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.514518,		
+"coordinatesLongitude": 16.474394		
+},		
+{		
+"id": "89",		
+"title": "Ulica Domovinskog rata #2",		
+"subtitle": "Križanje Ulice Domovinskog rata i Solinske ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.520003,		
+"coordinatesLongitude": 16.462228		
+},		
+{		
+"id": "90",		
+"title": "Vukovarska ulica #4",		
+"subtitle": "Križanje Vukovarske ulice i Dubrovačke ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.511332,		
+"coordinatesLongitude": 16.454483		
+},		
+{		
+"id": "91",		
+"title": "Ulica Bruna Bušića",		
+"subtitle": "Križanje Ulice Bruna Bušića i Ulice Jurja Šižgorića",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.511137,		
+"coordinatesLongitude": 16.462434		
+},		
+{		
+"id": "92",		
+"title": "Vukovarska ulica #3",		
+"subtitle": "Križanje Vukovarske ulice i Vukovarske ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.513172,		
+"coordinatesLongitude": 16.466064		
+},		
+{		
+"id": "93",		
+"title": "Ulica Domovinskog rata #3",		
+"subtitle": "Križanje Ulice Domovinskog rata i Dubrovačke ulice",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.519683,		
+"coordinatesLongitude": 16.449425		
+},		
+{		
+"id": "94",		
+"title": "Ulica Domovinskog rata #4",		
+"subtitle": "Križanje Ulice Domovinskog rata i Ulice slobode",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.516921,		
+"coordinatesLongitude": 16.445820		
+},		
+{		
+"id": "95",		
+"title": "Ulica Domovinskog rata #5",		
+"subtitle": "Križanje Ulice Domovinskog rata i Mažuranićevog šetališta",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.514672,		
+"coordinatesLongitude": 16.443560		
+},		
+{		
+"id": "96",		
+"title": "Ulica Antuna Gustava Matoša",		
+"subtitle": "Križanje Ulice Antuna Gustava Matoša i Prilaza Vladimira Nazora",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.513005,		
+"coordinatesLongitude": 16.432415		
+},		
+{		
+"id": "97",		
+"title": "Ulica kneza Trpimira",		
+"subtitle": "Križanje Ulice kneza Trpimira i Ulice Ante Starčevića",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.547699,		
+"coordinatesLongitude": 16.494282		
+},		
+{		
+"id": "98",		
+"title": "Čaporice",		
+"subtitle": "Na izlazu iz mjesta Čaporice prema Ugljanu",		
+"region": "Splitsko-dalmatinska",		
+"coordinatesLatitude": 43.590799,		
+"coordinatesLongitude": 16.735096		
+},		
+{		
+"id": "99",		
+"title": "Savska cesta #1",		
+"subtitle": "Križanje Savske ceste i Ulice Izidora Kršnjavog",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.807313,		
+"coordinatesLongitude": 15.967714		
+},		
+{		
+"id": "100",		
+"title": "Savska cesta #2",		
+"subtitle": "Križanje Savske ceste i Ulice grada Vukovara",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.799512,		
+"coordinatesLongitude": 15.962274		
+},		
+{		
+"id": "101",		
+"title": "Trg Josipa Jurja Strossmayera #1",		
+"subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer jug)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.808777,	
+"coordinatesLongitude": 15.979225		
+},		
+{		
+"id": "102",		
+"title": "Trg Josipa Jurja Strossmayera #2",		
+"subtitle": "Pored Parka Josipa Jurja Strossmayera(smjer sjever)",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.810247,	
+"coordinatesLongitude": 15.977600		
+},		
+{		
+"id": "103",		
+"title": "Avenija Marina Držića #2",		
+"subtitle": "Križanje Avenije Marina Držića i Ulice kneza Branimira",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.806248,	
+"coordinatesLongitude": 15.992461		
+},		
+{		
+"id": "104",		
+"title": "Zagrebačka ulica",		
+"subtitle": "Križanje Zagrebačke ulice i Ulice kneza Branimira",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.826548,	
+"coordinatesLongitude": 16.083271		
+},		
+{		
+"id": "105",		
+"title": "Sesvete",		
+"subtitle": "Križanje Zagrebačke ulice i Bistričke ulice",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.827632,	
+"coordinatesLongitude": 16.106527		
+},		
+{		
+"id": "106",		
+"title": "Sesvetski kraljevec",		
+"subtitle": "Križanje Dugoselske ulice i Ulice Bedema ljubavi",		
+"region": "Zagrebačka +Grad Zagreb",		
+"coordinatesLatitude": 45.814613,	
+"coordinatesLongitude": 16.183600		
+},		
+{
+"id": "107",		
+"title": "Zaton Doli",		
+"subtitle": "Na izlazu iz mjesta prema Dubrovniku",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.828846,	
+"coordinatesLongitude": 17.753739	
+},		
+{		
+"id": "108",		
+"title": "Brsečine",		
+"subtitle": "Kod križanja Jadranske magistrale i Ulice Podubrava",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.728635,	
+"coordinatesLongitude": 17.957667	
+},		
+{		
+"id": "109",		
+"title": "Ploče",		
+"subtitle": "Na ulazu u Ploče u smjeru Splita",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 43.056511,	
+"coordinatesLongitude": 17.444700	
+},		
+{		
+"id": "110",		
+"title": "Dubrovnik",		
+"subtitle": "Križanje Jadranske magistrale sa Sinjskom ulicom",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.651631,	
+"coordinatesLongitude": 18.098567	
+},		
+{		
+"id": "111",		
+"title": "Gruda",		
+"subtitle": "Jadranska magistrala u smjeru Crne Gore",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.515915,
+"coordinatesLongitude": 18.372354	
+},		
+{		
+"id": "112",		
+"title": "Plat",		
+"subtitle": "Kod križanja Jadranske magistrale s ulicom Pod Gospom",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 42.609815,	
+"coordinatesLongitude": 18.228501	
+},		
+{		
+"id": "113",		
+"title": "Metković #1",		
+"subtitle": "Splitska ulica, kod trgovine Gorenje",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 43.052659,	
+"coordinatesLongitude": 17.634900	
+},		
+{		
+"id": "114",		
+"title": "Metković #2",		
+"subtitle": "Ulica Zrinskih i Frnakopana 125",		
+"region": "Dubrovačko-neretvanska",		
+"coordinatesLatitude": 43.050216,	
+"coordinatesLongitude": 17.626372	
+},		
+{		
+"id": "115",		
+"title": "Pirovac",		
+"subtitle": "Križanje Jadranske magistrale i Zagrebačke ulice",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.824716,	
+"coordinatesLongitude": 15.659346
+},		
+{		
+"id": "116",		
+"title": "Vodice #1",		
+"subtitle": "Jadranska magistrala, kod Lidla",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.767537,	
+"coordinatesLongitude": 15.770914
+},		
+{		
+"id": "117",		
+"title": "Vodice #2",		
+"subtitle": "Jadranska magistrala, kod Dental Centra Dubravica",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.764444,
+"coordinatesLongitude": 15.794667	
+},
+{		
+"id": "119",		
+"title": "Vodice #3",		
+"subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Pirovcu",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.775026,
+"coordinatesLongitude": 15.779835	
+},
+{		
+"id": "120",		
+"title": "Vodice #4",		
+"subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Šibeniku",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.769389,
+"coordinatesLongitude": 15.797144	
+},
+{		
+"id": "121",		
+"title": "Šibenik",		
+"subtitle": "Jadranska magistrala, kod Plodina",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.753901,
+"coordinatesLongitude": 15.882154	
+},
+{		
+"id": "122",		
+"title": "Stupin Čelina, Rogoznica",		
+"subtitle": "Kod križanja Jadranske magistrale s Putom Kapele",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.540768,
+"coordinatesLongitude": 15.988797	
+},
+{		
+"id": "123",		
+"title": "Podorljak",		
+"subtitle": "Jadranska magistrala, kod skretanja za Dvornicu",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.530334,
+"coordinatesLongitude": 16.026937	
+},
+{		
+"id": "124",		
+"title": "Čvorište Dubrava kod Šibenika",		
+"subtitle": "D33 – smjer Tromilja",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.737985,
+"coordinatesLongitude": 15.936275	
+},
+{		
+"id": "125",		
+"title": "Bilo",		
+"subtitle": "Jadranska magistrala, u smjeru od Šibenika prema Splitu",		
+"region": "Šibensko-kninska",		
+"coordinatesLatitude": 43.625276,
+"coordinatesLongitude": 15.920206	
+},
+{		
+"id": "126",		
+"title": "Pitomača",		
+"subtitle": "D2 – Ulica Ljudevita Gaja kod kućnog broja 167",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.942825,
+"coordinatesLongitude": 17.240668	
+},
+{		
+"id": "127",		
+"title": "Stari Gradac",		
+"subtitle": "D2 – Ulica Matije Gupca kod kućnog broja 7",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.925418,
+"coordinatesLongitude": 17.289063	
+},
+{		
+"id": "128",		
+"title": "Kapela Dvor",		
+"subtitle": "D5 – kod kućnog broja 29",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.889964,
+"coordinatesLongitude": 17.420482	
+},
+{		
+"id": "129",		
+"title": "Virovitica",		
+"subtitle": "D5 – Virovitička obilaznica, u smjeru Lukača",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.851310,
+"coordinatesLongitude": 17.380516	
+},
+{		
+"id": "130",		
+"title": "Suhopolje",		
+"subtitle": "D2 – Vukovarska ulica kod kućnog broja 77",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.794651,
+"coordinatesLongitude": 17.507113	
+},
+{		
+"id": "131",		
+"title": "Slatina",		
+"subtitle": "D34 – Ulica Vladimira Nazora kod kućnog broja 261",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.723855,
+"coordinatesLongitude": 17.724309	
+},
+{		
+"id": "132",		
+"title": "Šaševo",		
+"subtitle": "D34 – Ulica Šaševo kod kućnog broja 9",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.744211,
+"coordinatesLongitude": 17.834268	
+},
+{		
+"id": "133",		
+"title": "Čađavački Lug",		
+"subtitle": "D34 – kod kućnog broja 55",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.754636,
+"coordinatesLongitude": 17.906016	
+},
+{		
+"id": "134",		
+"title": "Bukovački Antunovac",		
+"subtitle": "D2 – kod kućnog broja 80",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.634735,
+"coordinatesLongitude": 17.794615	
+},
+{		
+"id": "135",		
+"title": "Čačinci",		
+"subtitle": "D2 – Vukovarska ulica kod kućnog broja 62",		
+"region": "Virovitičko-podravska",		
+"coordinatesLatitude": 45.599710,
+"coordinatesLongitude": 17.851172	
+},
+{		
+"id": "136",		
+"title": "Cvetkovec",		
+"subtitle": "D2 – Varaždinska ulica kod kućnog broja 2 – prema Ludbregu",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.208876,
+"coordinatesLongitude": 16.697508	
+},
+{		
+"id": "137",		
+"title": "Koprivnica",		
+"subtitle": "D2 – Varaždinska ulica kod kućnog broja 2",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.168592,
+"coordinatesLongitude": 16.817906
+},
+{		
+"id": "138",		
+"title": "Glogovac",		
+"subtitle": "D2 – Koprivnička ulica kod kućnog broja 8",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.120870,
+"coordinatesLongitude": 16.878690	
+},
+{		
+"id": "139",		
+"title": "Novigrad Podravski",		
+"subtitle": "D2 – Koprivnička ulica kod kućnog broja 146",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.087662,
+"coordinatesLongitude": 16.946990	
+},
+{		
+"id": "140",		
+"title": "Hampovica",		
+"subtitle": "D43 – Ulica Šimuna Pandura kodkućnog broja 80",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.015696,
+"coordinatesLongitude": 16.952230	
+},
+{		
+"id": "141",		
+"title": "Sveti Ivan Žabno",		
+"subtitle": "D28 – Ulica braće Radić, kod kućnog broja 32",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.158321,
+"coordinatesLongitude": 16.836562	
+},
+{		
+"id": "142",		
+"title": "Kenđelovec",		
+"subtitle": "D28 – kod kućnog broja 15",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 45.948419,
+"coordinatesLongitude": 16.673013	
+},
+{		
+"id": "143",		
+"title": "Križevci #1",		
+"subtitle": "Ulica Petra Zrinskog, preko puta JYSK-a",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.022567,
+"coordinatesLongitude": 16.548327
+},
+{		
+"id": "144",		
+"title": "Križevci #2",		
+"subtitle": "Kalnička ulica, na ulazu u Križevce",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.039900,
+"coordinatesLongitude": 16.532647
+},
+{		
+"id": "145",		
+"title": "Karane",		
+"subtitle": "Koruška ulica, na ulazu u mjesto Karane",		
+"region": "Koprivničko-križevačka",		
+"coordinatesLatitude": 46.017092, 
+"coordinatesLongitude": 16.526837	
+},
+{		
+"id": "146",		
+"title": "Varaždin",		
+"subtitle": "Koprivnička ulica 4B, pored tvrtke Vizor – dva kućišta",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.314808, 
+"coordinatesLongitude": 16.347383 	
+},
+{		
+"id": "147",		
+"title": "Varaždinska obilaznica",		
+"subtitle": "D2 – istočna varaždinska obilaznica, kod tvrtke Solvis – dva kućišta",		
+"region": "Varaždinska",		
+"coordinatesLatitude": 46.273407, 
+"coordinatesLongitude": 16.361751
+},
+{		
+"id": "148",		
+"title": "Josipdol #2",		
+"subtitle": "Senjska ulica",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.181488, 
+"coordinatesLongitude": 15.287607
+},
+{		
+"id": "149",		
+"title": "Cerovac Vukmanićki",		
+"subtitle": "Cerovac Vukmanićki 60A",		
+"region": "Karlovačka",		
+"coordinatesLatitude": 45.426483, 
+"coordinatesLongitude": 15.605875
+},
+{		
+"id": "150",		
+"title": "Labin, Vinež",
+"subtitle": "Štembergerova ulica nasuport kbr. 18",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.098443, 
+"coordinatesLongitude": 14.10967
+},
+{		
+"id": "151",	
+"title": "Raša",		
+"subtitle": "Raskrižje državne ceste D66 i Ulice Ivana Batelića",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.080211, 
+"coordinatesLongitude": 14.082373
+},
+{		
+"id": "152",		
+"title": "Marčana, Loborika",		
+"subtitle": "Loborika 31",		
+"region": "Istarska",		
+"coordinatesLatitude": 44.917706, 
+"coordinatesLongitude": 13.907149
+},
+{		
+"id": "153",		
+"title": "Svetvinčevat, Juršići",		
+"subtitle": "Ispred kapele",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.019196, 
+"coordinatesLongitude": 13.871867
+},
+{		
+"id": "154",		
+"title": "Kanfanar, Putini",		
+"subtitle": "Putini 2A",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.106795, 
+"coordinatesLongitude": 13.746017
+},
+{		
+"id": "155",		
+"title": "Rovinj, Kokuletovica",		
+"subtitle": "Raskrižje županijske ceste 5096 i ceste Svetog Maksimilijana iz Veštra",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.063061, 
+"coordinatesLongitude": 13.69116
+},
+{		
+"id": "156",		
+"title": "Poreč, Kadumi",		
+"subtitle": "U blizini mjesta Kadumi",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.2177, 
+"coordinatesLongitude": 13.653699
+},
+{		
+"id": "157",		
+"title": "Poreč, Gedići",		
+"subtitle": "U blizini mjesta Gedići",		
+"region": "Istarska",		
+"coordinatesLatitude": 45.273832, 
+"coordinatesLongitude": 13.652867
+}
+]
