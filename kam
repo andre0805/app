@@ -1358,5 +1358,61 @@
 "region": "Krapinsko-zagorska",		
 "coordinatesLatitude": 46.152661, 
 "coordinatesLongitude": 15.878332
+},
+{		
+"id": "171",		
+"title": "Nedelišće",		
+"subtitle": "Varaždinska ulica 62",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.370026, 
+"coordinatesLongitude": 16.374884
+},
+{		
+"id": "172",		
+"title": "Šenkovec",		
+"subtitle": "Ulica Maršala Tita 69",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.409879, 
+"coordinatesLongitude": 16.422469
+},
+{		
+"id": "173",		
+"title": "Čakovec",		
+"subtitle": "Južna obilaznica grada",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.373259, 
+"coordinatesLongitude": 16.452315
+},
+{		
+"id": "174",		
+"title": "Mala Subotica",		
+"subtitle": "Glavna ulica 151",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.380584, 
+"coordinatesLongitude": 16.542417
+},
+{		
+"id": "175",		
+"title": "Mursko Središće",		
+"subtitle": "Ulica Josipa Broza Tita 79",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.506606, 
+"coordinatesLongitude": 16.431999
+},
+{		
+"id": "176",		
+"title": "Prelog",		
+"subtitle": "Čakovečka ulica 64",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.34006, 
+"coordinatesLongitude": 16.604036
+},
+{		
+"id": "177",		
+"title": "Brezje",		
+"subtitle": "Ulica Brezje 39",		
+"region": "Međimurska",		
+"coordinatesLatitude": 46.421058, 
+"coordinatesLongitude": 16.39547
 }
 ]
