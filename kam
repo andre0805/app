@@ -1438,5 +1438,69 @@
 "region": "Osječko-baranjska",		
 "coordinatesLatitude": 45.305706, 
 "coordinatesLongitude": 18.420489
+},
+{		
+"id": "181",		
+"title": "Lekenik, Dužica",		
+"subtitle": "D30 - nasuprot kbr. 29",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.545097, 
+"coordinatesLongitude": 16.23494
+},
+{		
+"id": "182",		
+"title": "Sisak, Novo Selo Palanječko",		
+"subtitle": "D36 - kod kbr. 100",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.488074, 
+"coordinatesLongitude": 16.442364
+},
+{		
+"id": "183",		
+"title": "Sisak",		
+"subtitle": "D37 - Petrinjska ulica 30",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.458924, 
+"coordinatesLongitude": 16.371612
+},
+{		
+"id": "184",		
+"title": "Glina, Prekopa",		
+"subtitle": "D37 - nasuprot kbr. 30",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.365862, 
+"coordinatesLongitude": 16.120645
+},
+{		
+"id": "185",		
+"title": "Glina, Gornji Viduševac",		
+"subtitle": "D6 - kod kbr. 172",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.341759, 
+"coordinatesLongitude": 16.06535
+},
+{		
+"id": "186",		
+"title": "Popovača, Gornja Gračenica",		
+"subtitle": "Ž3124 - Zagrebačka 146",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.492247, 
+"coordinatesLongitude": 16.73596
+},
+{		
+"id": "187",		
+"title": "Kutina",		
+"subtitle": "D45 - Ulica hrvatskih branitelja 21",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.485238, 
+"coordinatesLongitude": 16.780822
+},
+{		
+"id": "188",		
+"title": "Kutina, Kutinska Slatina",		
+"subtitle": "D45 - Ulica Stjepana Kefelje 15",		
+"region": "Sisačko-moslavačka",		
+"coordinatesLatitude": 45.514792, 
+"coordinatesLongitude": 16.794865
 }
 ]
