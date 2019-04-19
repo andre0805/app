@@ -1686,5 +1686,78 @@
 "region": "Splitsko-dalmatinska",		
 "coordinatesLatitude": 43.430640,
 "coordinatesLongitude": 17.248611
+},
+{		
+"id": "212",		
+"title": "Gospić",		
+"subtitle": "D25 - Budačka ulica 281",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.573317, 
+"coordinatesLongitude": 15.389651
+},
+{		
+"id": "213",		
+"title": "Korenica 1",		
+"subtitle": "D1 - Ulica Josipa Jovića 45A",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.740791, 
+"coordinatesLongitude": 15.71315
+},
+{		
+"id": "214",		
+"title": "Korenica 2",		
+"subtitle": "D1 - Ulica Vranovača 30/3",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.754572, 
+"coordinatesLongitude": 15.70003
+},
+{		
+"id": "215",		
+"title": "Sveti Juraj",		
+"subtitle": "D8 - Ulica Varoš kod osnovne škole",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.930018, 
+"coordinatesLongitude": 14.921474
+},
+{		
+"id": "216",		
+"title": "Karlobag, Ribarica",		
+"subtitle": "D8 - Prema mjestu Plitka Draga Donja",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.55449, 
+"coordinatesLongitude": 15.037099
+},
+{		
+"id": "217",		
+"title": "Perušić",		
+"subtitle": "D50 - Ulica Zrinskog i Frankopana 9",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.649151, 
+"coordinatesLongitude": 15.38437
+},
+{		
+"id": "218",		
+"title": "Komopolje",		
+"subtitle": "D50 - Ulica Komopolje kod osnovne škole",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.915154, 
+"coordinatesLongitude": 15.157514
+},
+{		
+"id": "219",		
+"title": "Lički Osik",		
+"subtitle": "D25 - Ulica Lički Osik 78/3",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.597919, 
+"coordinatesLongitude": 15.40574
+},
+{		
+"id": "220",		
+"title": "Ličko Lešće",		
+"subtitle": "D50 - Ulica Ličko Lešće 206",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.804901, 
+"coordinatesLongitude": 15.32422
 }
+
 ]
