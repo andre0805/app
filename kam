@@ -1,8 +1,8 @@
 [		
 {		
 "id": "0",		
-"title": "Kostrena D8",		
-"subtitle": "50 metara nakon križanja Doričići (smjer jug)",		
+"title": "Kostrena",		
+"subtitle": "D8 - 50 metara nakon križanja Doričići (smjer jug)",		
 "region": "Primorsko-goranska",		
 "coordinatesLatitude": 45.30173,		
 "coordinatesLongitude": 14.50294		
@@ -10,7 +10,7 @@
 {		
 "id": "1",		
 "title": "Tunel Pećine",		
-"subtitle": "Prije isključenja za Tower centar (smjer istok)",		
+"subtitle": "D404 - Prije isključenja za Tower centar (smjer istok)",		
 "region": "Primorsko-goranska",		
 "coordinatesLatitude": 45.31814,		
 "coordinatesLongitude": 14.46977		
@@ -57,8 +57,8 @@
 },		
 {		
 "id": "7",		
-"title": "Pavučnjak D1 #1",		
-"subtitle": "Kod kućnog broja 59 (smjer jug)",		
+"title": "Pavučnjak #1",		
+"subtitle": "D1 - Kod kućnog broja 59 (smjer jug)",		
 "region": "Zagrebačka +Grad Zagreb",		
 "coordinatesLatitude": 45.75557,		
 "coordinatesLongitude": 15.8325		
@@ -66,7 +66,7 @@
 {		
 "id": "8",		
 "title": "Žerjavinec",		
-"subtitle": "Omladinska ulica",		
+"subtitle": "D3 - Omladinska ulica",		
 "region": "Zagrebačka +Grad Zagreb",		
 "coordinatesLatitude": 45.872375,		
 "coordinatesLongitude": 16.161919		
