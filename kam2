@@ -1,74 +1,453 @@
-[		
-{		
-"id": "0",		
-"title": "Kostrena",		
-"subtitle": "D8 - 50 metara nakon križanja Doričići (smjer jug)",		
-"region": "Primorsko-goranska",		
-"coordinatesLatitude": 45.30173,		
-"coordinatesLongitude": 14.50294		
-},		
-{		
-"id": "1",		
-"title": "Tunel Pećine",		
-"subtitle": "D404 - Prije isključenja za Tower centar (smjer istok)",		
-"region": "Primorsko-goranska",		
-"coordinatesLatitude": 45.31814,		
-"coordinatesLongitude": 14.46977		
-},		
-{		
-"id": "2",		
-"title": "Slavonska avenija #1",		
-"subtitle": "Kod križanja sa Ulicom Milana Sachsa (smjer istok)",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.7963,		
-"coordinatesLongitude": 16.01004		
-},		
-{		
-"id": "3",		
-"title": "Avenija Marina Držića #1",		
-"subtitle": "Ispred petlje sa Slavonskom avenijom (smjer jug)",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.79791,		
-"coordinatesLongitude": 15.99765		
-},		
-{		
-"id": "4",		
-"title": "Slavonska avenija #3",		
-"subtitle": "Ispred podvožnjaka Savska (smjer zapad)",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.79407,		
-"coordinatesLongitude": 15.96141		
-},		
-{		
-"id": "5",		
-"title": "Aleja Bologne #1",		
-"subtitle": "U oba smjera na trasi Gajnice-Zaprešić",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.81387,		
-"coordinatesLongitude": 15.86995		
-},		
-{		
-"id": "6",		
-"title": "Ulica Dubrava",		
-"subtitle": "Kod križanja s Ulicom Druge Poljanice (smjer zapad)",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.82856,		
-"coordinatesLongitude": 16.07094		
-},		
-{		
-"id": "7",		
-"title": "Pavučnjak #1",		
-"subtitle": "D1 - Kod kućnog broja 59 (smjer jug)",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.75557,		
-"coordinatesLongitude": 15.8325		
-},		
-{		
-"id": "8",		
-"title": "Žerjavinec",		
-"subtitle": "D3 - Omladinska ulica",		
-"region": "Zagrebačka +Grad Zagreb",		
-"coordinatesLatitude": 45.872375,		
-"coordinatesLongitude": 16.161919		
-}
+[
+  {
+    "ZupanijaID": 1,
+    "Naziv": "Zagrebačka",
+    "Radari": [
+      {
+        "ZupanijaID": 1,
+        "Cesta": "Državna D28",
+        "Lokacija": "Sveta Helena - Vrbovec",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 1,
+        "Cesta": "Državna D28",
+        "Lokacija": "Vrbovec - Cugovec",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 1,
+        "Cesta": "Auto cesta A3",
+        "Lokacija": "Zagreb - Bregana",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 21,
+    "Naziv": "Grad Zagreb",
+    "Radari": [
+      {
+        "ZupanijaID": 21,
+        "Cesta": "DUBRAVA",
+        "Lokacija": "Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Branimirova, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Heinzelova, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "Auto cesta A1",
+        "Lokacija": "Karlovac, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "Auto cesta A2",
+        "Lokacija": "Krapina, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Most mladosti, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Selska cesta, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Slavonska avenija, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "Auto cesta A3",
+        "Lokacija": "Slavonska avenija, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Škorpikova, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      },
+      {
+        "ZupanijaID": 21,
+        "Cesta": "",
+        "Lokacija": "Zagrebačka avenija, Zagreb",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "24:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 2,
+    "Naziv": "Krapinsko-Zagorska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 3,
+    "Naziv": "Sisačko-Moslavačka",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 4,
+    "Naziv": "Karlovačka",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 5,
+    "Naziv": "Varaždinska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 6,
+    "Naziv": "Koprivničko-Križevaćka",
+    "Radari": [
+      {
+        "ZupanijaID": 6,
+        "Cesta": "Državna D2",
+        "Lokacija": "Budančevica - Virje",
+        "VrijemeOd": "22:00",
+        "VrijemeDo": "01:00"
+      },
+      {
+        "ZupanijaID": 6,
+        "Cesta": "Državna D28",
+        "Lokacija": "Kenđelovec - Škrinjari",
+        "VrijemeOd": "15:00",
+        "VrijemeDo": "18:00"
+      },
+      {
+        "ZupanijaID": 6,
+        "Cesta": "Državna D28",
+        "Lokacija": "Markovac Križevački - Sveti Ivan Žabno",
+        "VrijemeOd": "17:00",
+        "VrijemeDo": "20:00"
+      },
+      {
+        "ZupanijaID": 6,
+        "Cesta": "Državna D2",
+        "Lokacija": "Novigrad Podravski - Koprivnica",
+        "VrijemeOd": "12:00",
+        "VrijemeDo": "15:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 7,
+    "Naziv": "Bjelovarsko-Bilogorska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 8,
+    "Naziv": "Primorsko-Goranska",
+    "Radari": [
+      {
+        "ZupanijaID": 8,
+        "Cesta": "Državna D8",
+        "Lokacija": "Klanfari",
+        "VrijemeOd": "15:00",
+        "VrijemeDo": "18:00"
+      },
+      {
+        "ZupanijaID": 8,
+        "Cesta": "Državna D8",
+        "Lokacija": "Selce",
+        "VrijemeOd": "10:00",
+        "VrijemeDo": "12:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 9,
+    "Naziv": "Ličko-Senjska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 10,
+    "Naziv": "Virovitičko-Podravska",
+    "Radari": [
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Korija - Lozan",
+        "VrijemeOd": "01:00",
+        "VrijemeDo": "02:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Lozan - Stari Gradac",
+        "VrijemeOd": "15:00",
+        "VrijemeDo": "16:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Virovitica - Čemernica",
+        "VrijemeOd": "06:00",
+        "VrijemeDo": "07:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Virovitica - Čemernica",
+        "VrijemeOd": "06:00",
+        "VrijemeDo": "07:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Virovitica - Čemernica",
+        "VrijemeOd": "06:00",
+        "VrijemeDo": "07:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "",
+        "Lokacija": "Virovitica - Milanovac",
+        "VrijemeOd": "00:00",
+        "VrijemeDo": "01:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Štrosmajerova, Virovitica",
+        "VrijemeOd": "22:00",
+        "VrijemeDo": "23:00"
+      },
+      {
+        "ZupanijaID": 10,
+        "Cesta": "Državna D2",
+        "Lokacija": "Štrosmajerova, Virovitica",
+        "VrijemeOd": "22:00",
+        "VrijemeDo": "23:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 11,
+    "Naziv": "Požesko-Slavonska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 12,
+    "Naziv": "Brodsko-Posavska",
+    "Radari": [
+      {
+        "ZupanijaID": 12,
+        "Cesta": "Županijska ZC4202",
+        "Lokacija": "Bukovlje - Sapci",
+        "VrijemeOd": "12:00",
+        "VrijemeDo": "15:00"
+      },
+      {
+        "ZupanijaID": 12,
+        "Cesta": "Auto cesta A3",
+        "Lokacija": "Okučani - Velika Kopanica",
+        "VrijemeOd": "07:00",
+        "VrijemeDo": "19:00"
+      },
+      {
+        "ZupanijaID": 12,
+        "Cesta": "Državna D525",
+        "Lokacija": "Slobodnica - Grižići",
+        "VrijemeOd": "16:30",
+        "VrijemeDo": "19:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 13,
+    "Naziv": "Zadarska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 14,
+    "Naziv": "Osječko-Baranjska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 15,
+    "Naziv": "Šibensko-Kninska",
+    "Radari": [
+      {
+        "ZupanijaID": 15,
+        "Cesta": "Lokalna L10001",
+        "Lokacija": "Sinjska ulica, Knin",
+        "VrijemeOd": "16:00",
+        "VrijemeDo": "18:00"
+      },
+      {
+        "ZupanijaID": 15,
+        "Cesta": "Državna D33",
+        "Lokacija": "Siverić",
+        "VrijemeOd": "12:00",
+        "VrijemeDo": "14:00"
+      },
+      {
+        "ZupanijaID": 15,
+        "Cesta": "Županijska ZC6086",
+        "Lokacija": "Vodice",
+        "VrijemeOd": "04:00",
+        "VrijemeDo": "07:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 16,
+    "Naziv": "Vukovarsko-Srijemska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 17,
+    "Naziv": "Splitsko-Dalmatinska",
+    "Radari": []
+  },
+  {
+    "ZupanijaID": 18,
+    "Naziv": "Istarska",
+    "Radari": [
+      {
+        "ZupanijaID": 18,
+        "Cesta": "Županijska ZC5011",
+        "Lokacija": "Buzet - Počekaji",
+        "VrijemeOd": "13:00",
+        "VrijemeDo": "14:00"
+      },
+      {
+        "ZupanijaID": 18,
+        "Cesta": "Državna D301",
+        "Lokacija": "Bužinija",
+        "VrijemeOd": "16:30",
+        "VrijemeDo": "18:30"
+      },
+      {
+        "ZupanijaID": 18,
+        "Cesta": "Županijska ZC5003",
+        "Lokacija": "Kmeti",
+        "VrijemeOd": "09:30",
+        "VrijemeDo": "11:00"
+      },
+      {
+        "ZupanijaID": 18,
+        "Cesta": "",
+        "Lokacija": "Tršćanska, Pula",
+        "VrijemeOd": "01:00",
+        "VrijemeDo": "03:00"
+      },
+      {
+        "ZupanijaID": 18,
+        "Cesta": "Državna D201",
+        "Lokacija": "Štrped",
+        "VrijemeOd": "07:00",
+        "VrijemeDo": "08:00"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 19,
+    "Naziv": "Dubrovačko-Neretvanska",
+    "Radari": [
+      {
+        "ZupanijaID": 19,
+        "Cesta": "Državna D8",
+        "Lokacija": "Dubrovnik - Čibača",
+        "VrijemeOd": "07:00",
+        "VrijemeDo": "08:00"
+      },
+      {
+        "ZupanijaID": 19,
+        "Cesta": "Državna D8",
+        "Lokacija": "Dubrovnik - Trsteno",
+        "VrijemeOd": "13:00",
+        "VrijemeDo": "15:00"
+      },
+      {
+        "ZupanijaID": 19,
+        "Cesta": "Državna D8",
+        "Lokacija": "Dubrovnik - Zvekovica",
+        "VrijemeOd": "17:00",
+        "VrijemeDo": "19:00"
+      },
+      {
+        "ZupanijaID": 19,
+        "Cesta": "",
+        "Lokacija": "Mokošica - Čajkovići",
+        "VrijemeOd": "15:00",
+        "VrijemeDo": "17:00"
+      },
+      {
+        "ZupanijaID": 19,
+        "Cesta": "",
+        "Lokacija": "Sustjepan - Mokošica",
+        "VrijemeOd": "22:30",
+        "VrijemeDo": "00:00"
+      },
+      {
+        "ZupanijaID": 19,
+        "Cesta": "Državna D8",
+        "Lokacija": "Zaton - Trsteno",
+        "VrijemeOd": "19:00",
+        "VrijemeDo": "22:30"
+      }
+    ]
+  },
+  {
+    "ZupanijaID": 20,
+    "Naziv": "Međimurska",
+    "Radari": [
+      {
+        "ZupanijaID": 20,
+        "Cesta": "Državna D3",
+        "Lokacija": "Južna zaobilaznica, Čakovec",
+        "VrijemeOd": "18:00",
+        "VrijemeDo": "19:00"
+      },
+      {
+        "ZupanijaID": 20,
+        "Cesta": "Državna D209",
+        "Lokacija": "Mursko Središće",
+        "VrijemeOd": "09:00",
+        "VrijemeDo": "09:30"
+      },
+      {
+        "ZupanijaID": 20,
+        "Cesta": "Županijska ZC2005",
+        "Lokacija": "Selnica",
+        "VrijemeOd": "09:45",
+        "VrijemeDo": "10:15"
+      }
+    ]
+  }
 ]
