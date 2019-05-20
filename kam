@@ -944,6 +944,14 @@
 "coordinatesLongitude": 15.794667	
 },
 {		
+"id": "118",		
+"title": "Ličko Lešće",		
+"subtitle": "D50 - Ulica Ličko Lešće 206",		
+"region": "Ličko-senjska",		
+"coordinatesLatitude": 44.804901, 
+"coordinatesLongitude": 15.32422
+},
+{		
 "id": "119",		
 "title": "Vodice #3",		
 "subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Pirovcu",		
@@ -1750,13 +1758,5 @@
 "region": "Ličko-senjska",		
 "coordinatesLatitude": 44.597919, 
 "coordinatesLongitude": 15.40574
-},
-{		
-"id": "220",		
-"title": "Ličko Lešće",		
-"subtitle": "D50 - Ulica Ličko Lešće 206",		
-"region": "Ličko-senjska",		
-"coordinatesLatitude": 44.804901, 
-"coordinatesLongitude": 15.32422
 }
 ]
