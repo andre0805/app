@@ -930,10 +930,10 @@
 {		
 "id": "116",		
 "title": "Vodice #1",		
-"subtitle": "Jadranska magistrala, kod Lidla",		
+"subtitle": "Na stupu prije skretanja za Lidl, u pravcu Vodica",		
 "region": "Šibensko-kninska",		
-"coordinatesLatitude": 43.767537,	
-"coordinatesLongitude": 15.770914
+"coordinatesLatitude": 43.76917,	
+"coordinatesLongitude": 15.773217
 },		
 {		
 "id": "117",		
@@ -954,10 +954,10 @@
 {		
 "id": "119",		
 "title": "Vodice #3",		
-"subtitle": "Jadranska magistrala, vodička obilaznica, kućište prema Pirovcu",		
+"subtitle": "Jadranska magistrala, vodička obilaznica, na nadvožnjaku u smjeru Zadra",		
 "region": "Šibensko-kninska",		
-"coordinatesLatitude": 43.775336,
-"coordinatesLongitude": 15.773283	
+"coordinatesLatitude": 43.774622,
+"coordinatesLongitude": 15.782988	
 },
 {		
 "id": "120",		
