@@ -1758,5 +1758,13 @@
 "region": "Ličko-senjska",		
 "coordinatesLatitude": 44.597919, 
 "coordinatesLongitude": 15.40574
+},
+{
+"id": "220",
+"title": "Kutina - A3",
+"subtitle": "A3",
+"region": "Sisačko-moslavačka",
+"coordinatesLatitude": 45.486545, 
+"coordinatesLongitude": 16.702488
 }
 ]
