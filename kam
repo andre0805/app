@@ -1385,7 +1385,7 @@
 },
 {		
 "id": "173",		
-"title": "Čakovec",		
+"title": "Čakovec #1",		
 "subtitle": "Južna obilaznica grada",		
 "region": "Međimurska",		
 "coordinatesLatitude": 46.373259, 
@@ -1766,5 +1766,13 @@
 "region": "Sisačko-moslavačka",
 "coordinatesLatitude": 45.486545, 
 "coordinatesLongitude": 16.702488
+},
+{
+"id": "221",
+"title": "Čakovec #2",
+"subtitle": "Zrinsko-frankopanska ulica",
+"region": "Međimurska",
+"coordinatesLatitude": 46.387318, 
+"coordinatesLongitude": 16.423941
 }
 ]
