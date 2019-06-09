@@ -1774,5 +1774,13 @@
 "region": "Međimurska",
 "coordinatesLatitude": 46.387318, 
 "coordinatesLongitude": 16.423941
+},
+{
+"id": "222",
+"title": "Hrastovac",
+"subtitle": "Križanje Ulice kneza Mislava i Ulice kralja Tomislava",
+"region": "Bjelovarsko-bilogorska",
+"coordinatesLatitude": 45.551542, 
+"coordinatesLongitude": 16.988414
 }
 ]
