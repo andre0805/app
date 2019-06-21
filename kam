@@ -1130,10 +1130,10 @@
 {		
 "id": "141",		
 "title": "Sveti Ivan Žabno",		
-"subtitle": "D28 – Ulica braće Radić, kod kućnog broja 32",		
+"subtitle": "Prije kružnog toka, smjer Bjelovara",		
 "region": "Koprivničko-križevačka",		
-"coordinatesLatitude": 46.158321,
-"coordinatesLongitude": 16.836562	
+"coordinatesLatitude": 46.946167,
+"coordinatesLongitude": 16.611582	
 },
 {		
 "id": "142",		
@@ -1553,11 +1553,11 @@
 },
 {		
 "id": "194",		
-"title": "Garešnica, Hrastovac",		
-"subtitle": "D26 - Ulica kneza Mislava 3",		
+"title": "Ulica bana Jelačića",		
+"subtitle": "Kod škole",		
 "region": "Bjelovarsko-bilogorska",		
-"coordinatesLatitude": 45.55186, 
-"coordinatesLongitude": 16.988103
+"coordinatesLatitude": 45.551013, 
+"coordinatesLongitude": 16.988202
 },
 {		
 "id": "195",		
@@ -1774,13 +1774,5 @@
 "region": "Međimurska",
 "coordinatesLatitude": 46.387318, 
 "coordinatesLongitude": 16.423941
-},
-{
-"id": "222",
-"title": "Hrastovac",
-"subtitle": "Križanje Ulice kneza Mislava i Ulice kralja Tomislava",
-"region": "Bjelovarsko-bilogorska",
-"coordinatesLatitude": 45.551542, 
-"coordinatesLongitude": 16.988414
 }
 ]
