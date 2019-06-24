@@ -642,10 +642,10 @@
 {		
 "id": "80",		
 "title": "Poličnik",		
-"subtitle": "Križanje Jadranske magistrale i ulice dr. Franje Tuđmana",		
+"subtitle": "Križanje Jadranske magistrale i Ulice Domovinskoga rata",		
 "region": "Zadarska",		
-"coordinatesLatitude": 44.174462,	
-"coordinatesLongitude": 15.380367		
+"coordinatesLatitude": 44.171281,	
+"coordinatesLongitude": 15.374256		
 },		
 {		
 "id": "81",		
@@ -1774,5 +1774,29 @@
 "region": "Međimurska",
 "coordinatesLatitude": 46.387318, 
 "coordinatesLongitude": 16.423941
+},
+{
+"id": "222",
+"title": "Murvica",
+"subtitle": "Križanje Jadranske magistrale i Ulice Hrvoje Ćustića",
+"region": "Zadarska",
+"coordinatesLatitude": 44.143679, 
+"coordinatesLongitude": 15.318508
+},
+{
+"id": "223",
+"title": "Zadar #1",
+"subtitle": "Zagrebačka ulica 39",
+"region": "Zadarska",
+"coordinatesLatitude": 44.116066, 
+"coordinatesLongitude": 15.261839
+},
+{
+"id": "224",
+"title": "Zadar #2",
+"subtitle": "Prije skretanja za YISK",
+"region": "Zadarska",
+"coordinatesLatitude": 44.100114,
+"coordinatesLongitude": 15.268350
 }
 ]
