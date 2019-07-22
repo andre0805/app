@@ -1806,5 +1806,13 @@
 "region": "Šibensko-kninska",
 "coordinatesLatitude": 43.923981,
 "coordinatesLongitude": 16.206157
+},
+{
+"id": "226",
+"title": "Imotski",
+"subtitle": "Kod Lidl-a i Agro Im-a",
+"region": "Splitsko-dalmatinska",
+"coordinatesLatitude": 43.439087,
+"coordinatesLongitude": 17.203042
 }
 ]
