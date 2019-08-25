@@ -1004,8 +1004,8 @@
 "title": "Bilo",		
 "subtitle": "Jadranska magistrala, u smjeru od Šibenika prema Splitu",		
 "region": "Šibensko-kninska",		
-"coordinatesLatitude": 43.625276,
-"coordinatesLongitude": 15.920206	
+"coordinatesLatitude": 43.626399,
+"coordinatesLongitude": 15.917904	
 },
 {		
 "id": "126",		
@@ -1188,8 +1188,8 @@
 "title": "Josipdol #2",		
 "subtitle": "Senjska ulica",		
 "region": "Karlovačka",		
-"coordinatesLatitude": 45.181488, 
-"coordinatesLongitude": 15.287607
+"coordinatesLatitude": 45.183545, 
+"coordinatesLongitude": 15.287381
 },
 {		
 "id": "149",		
@@ -1814,5 +1814,13 @@
 "region": "Splitsko-dalmatinska",
 "coordinatesLatitude": 43.439087,
 "coordinatesLongitude": 17.203042
+},
+{
+"id": "227",
+"title": "Klisa",
+"subtitle": "Vukovarska ulica",
+"region": "Osječko-baranjska",
+"coordinatesLatitude": 45.477332,
+"coordinatesLongitude": 18.830589
 }
 ]
