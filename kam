@@ -1822,13 +1822,5 @@
 "region": "Osječko-baranjska",
 "coordinatesLatitude": 45.477332,
 "coordinatesLongitude": 18.830589
-},
-{
-"id": "228",
-"title": "Gradište",
-"subtitle": "Obilaznica",
-"region": "Vukovarsko-srijemska",
-"coordinatesLatitude": 45.144989,
-"coordinatesLongitude": 18.728023
 }
 ]
