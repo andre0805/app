@@ -1822,5 +1822,13 @@
 "region": "Osječko-baranjska",
 "coordinatesLatitude": 45.477332,
 "coordinatesLongitude": 18.830589
+},
+{
+"id": "228",
+"title": "Kukuljanovo",
+"subtitle": "D4 - U blizini Peveca",
+"region": "Primorsko-goranska",
+"coordinatesLatitude": 45.333382,
+"coordinatesLongitude": 14.50735
 }
 ]
