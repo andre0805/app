@@ -1838,5 +1838,21 @@
 "region": "Vukovarsko-srijemska",
 "coordinatesLatitude": 45.276341,
 "coordinatesLongitude": 18.807132
+},
+{
+"id": "230",
+"title": "Debeljuhi",
+"subtitle": "Na dionici Kanfanar - Žminj",
+"region": "Istarska",
+"coordinatesLatitude": 45.129385,
+"coordinatesLongitude": 13.861485
+},
+{
+"id": "231",
+"title": "Galižanska cesta",
+"subtitle": "Kod križanja Galižanske i Fažanske ulice u smjer Vodnjan - Pula",
+"region": "Istarska",
+"coordinatesLatitude": 44.927981,
+"coordinatesLongitude": 13.851297
 }
 ]
