@@ -222,14 +222,14 @@
 "region": "Primorsko-goranska",		
 "coordinatesLatitude": 45.3396247,		
 "coordinatesLongitude": 14.3924955		
-},		
-{		
-"id": "28",		
-"title": "Ljubljanska cesta",		
-"subtitle": "Kod kućnog broja 4 (smjer istok)",		
-"region": "Primorsko-goranska",		
-"coordinatesLatitude": 45.35137,		
-"coordinatesLongitude": 14.34514		
+},
+{
+"id": "28",
+"title": "Brajdica",
+"subtitle": "Križanje ulice A. K. Miočića i Brajdice",
+"region": "Istarska",
+"coordinatesLatitude": 45.323582,
+"coordinatesLongitude": 14.449674
 },		
 {		
 "id": "29",		
