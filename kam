@@ -1854,5 +1854,13 @@
 "region": "Istarska",
 "coordinatesLatitude": 44.927981,
 "coordinatesLongitude": 13.851297
+},
+{
+"id": "232",
+"title": "Košute",
+"subtitle": "Vukovarska ulica",
+"region": "Splitsko-dalmatinska",
+"coordinatesLatitude": 43.627144,
+"coordinatesLongitude": 16.708726
 }
 ]
