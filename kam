@@ -1862,5 +1862,13 @@
 "region": "Splitsko-dalmatinska",
 "coordinatesLatitude": 43.627144,
 "coordinatesLongitude": 16.708726
+},
+{
+"id": "233",
+"title": "Duće",
+"subtitle": "Na magistrali uz hotel Duće",
+"region": "Splitsko-dalmatinska",
+"coordinatesLatitude": 43.441132,
+"coordinatesLongitude": 16.657648
 }
 ]
