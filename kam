@@ -1870,5 +1870,21 @@
 "region": "Splitsko-dalmatinska",
 "coordinatesLatitude": 43.441132,
 "coordinatesLongitude": 16.657648
+},
+{
+"id": "234",
+"title": "Vinkovci #4",
+"subtitle": "Križanje ulica Hansa Dietricha Genschera i Lavoslava Ružićke",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.280291,
+"coordinatesLongitude": 18.798842
+},
+{
+"id": "235",
+"title": "Vinkovci #5",
+"subtitle": "Vinkovačka obilaznica",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.276791,
+"coordinatesLongitude": 18.77872
 }
 ]
