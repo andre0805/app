@@ -1887,5 +1887,30 @@
 "region": "Vukovarsko-srijemska",
 "coordinatesLatitude": 45.276791,
 "coordinatesLongitude": 18.77872
+},
+{
+"id": "236",
+"title": "Vinkovci #6",
+"subtitle": "L4170 - Skretanje za Kunjevce",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.257559,
+"coordinatesLongitude": 18.776939
+},
+{
+"id": "237",
+"title": "Prkovci",
+"subtitle": "L4167 - Glavna ulica, kod škole",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.214121,
+"coordinatesLongitude": 18.610188
+},
+{
+"id": "238",
+"title": "Vinkovci #7",
+"subtitle": "Kod kauflanda",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.292603,
+"coordinatesLongitude": 18.795383
 }
+
 ]
