@@ -1911,6 +1911,14 @@
 "region": "Vukovarsko-srijemska",
 "coordinatesLatitude": 45.292603,
 "coordinatesLongitude": 18.795383
+},
+{
+"id": "239",
+"title": "Grebaštica",
+"subtitle": "D8 - Na ulazu u mjesto Grebaštica, smjer Primoštena",
+"region": "Šibensko-kninska",
+"coordinatesLatitude": 43.641559,
+"coordinatesLongitude": 15.958732
 }
 
 ]
