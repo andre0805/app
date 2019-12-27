@@ -1919,6 +1919,14 @@
 "region": "Šibensko-kninska",
 "coordinatesLatitude": 43.641559,
 "coordinatesLongitude": 15.958732
+},
+{
+"id": "240",
+"title": "Vinkovci #8",
+"subtitle": "Ulica kralja Zvonimira - ulaz u Vinkovce iz smjera Nuštra, kod Dilja",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.306732,
+"coordinatesLongitude": 18.813224
 }
 
 ]
