@@ -1828,8 +1828,8 @@
 "title": "Kukuljanovo",
 "subtitle": "D4 - U blizini Peveca",
 "region": "Primorsko-goranska",
-"coordinatesLatitude": 45.333382,
-"coordinatesLongitude": 14.50735
+"coordinatesLatitude": 45.332375,
+"coordinatesLongitude": 14.50749
 },
 {
 "id": "229",
@@ -1927,6 +1927,14 @@
 "region": "Vukovarsko-srijemska",
 "coordinatesLatitude": 45.306732,
 "coordinatesLongitude": 18.813224
+},
+{
+"id": "241",
+"title": "Đurđanci",
+"subtitle": "Križanje D46 i Glavne ulice",
+"region": "Osječko-baranjska",
+"coordinatesLatitude": 45.288523,
+"coordinatesLongitude": 18.499966
 }
 
 ]
