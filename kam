@@ -1935,6 +1935,14 @@
 "region": "Osječko-baranjska",
 "coordinatesLatitude": 45.288523,
 "coordinatesLongitude": 18.499966
+},
+{
+"id": "242",
+"title": "Sulkovci",
+"subtitle": "D49 - Dionica Sulkovci-Bresnica",
+"region": "Požeško-slavonska",
+"coordinatesLatitude": 45.271495,
+"coordinatesLongitude": 17.779318
 }
 
 ]
