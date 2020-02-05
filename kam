@@ -1943,6 +1943,14 @@
 "region": "Požeško-slavonska",
 "coordinatesLatitude": 45.271495,
 "coordinatesLongitude": 17.779318
+},
+{
+"id": "243",
+"title": "Senj",
+"subtitle": "Na izlazu iz Senja u smjeru Klenovice",
+"region": "Ličko-senjska",
+"coordinatesLatitude": 45.006195,
+"coordinatesLongitude": 14.896245
 }
 
 ]
