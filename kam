@@ -1951,6 +1951,30 @@
 "region": "Ličko-senjska",
 "coordinatesLatitude": 45.006195,
 "coordinatesLongitude": 14.896245
+},
+{
+"id": "244",
+"title": "Marinci",
+"subtitle": "Križanje kod crkve u Marincima",
+"region": "Vukovarsko-srijemska",
+"coordinatesLatitude": 45.33902,
+"coordinatesLongitude": 18.895904
+},
+{
+"id": "245",
+"title": "Kupari, Župa Dubrovačka",
+"subtitle": "Smjer Čilipi, prije skretanja za kompleks Kupari",
+"region": "Dubrovačko-neretvanska",
+"coordinatesLatitude": 42.622564,
+"coordinatesLongitude": 18.182246
+},
+{
+"id": "246",
+"title": "Rešetari ",
+"subtitle": "U smjeru Nove Gradiške",
+"region": "Brodsko-posavska",
+"coordinatesLatitude": 45.255463,
+"coordinatesLongitude": 17.43672
 }
 
 ]
