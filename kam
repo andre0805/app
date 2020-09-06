@@ -1975,6 +1975,14 @@
 "region": "Brodsko-posavska",
 "coordinatesLatitude": 45.255463,
 "coordinatesLongitude": 17.43672
+},
+{
+"id": "247",
+"title": "Lipik",
+"subtitle": "Ulica Ante Starčevića kod kbr. 79, okrenuta prema Pakracu",
+"region": "Pozesko-slavonska",
+"coordinatesLatitude": 45.417467,
+"coordinatesLongitude": 17.169243
 }
 
 ]
