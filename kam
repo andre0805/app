@@ -225,7 +225,7 @@
 },
 {
 "id": "28",
-"title": "Opatija #1",
+"title": "Opatija",
 "subtitle": "Križanje Nove ceste D66 i Ulice Matka Laginje",
 "region": "Primorsko-goranska",
 "coordinatesLatitude": 45.343240,
@@ -1983,6 +1983,13 @@
 "region": "Požeško-slavonska",
 "coordinatesLatitude": 45.417467,
 "coordinatesLongitude": 17.169243
+},
+{
+"id": "248",
+"title": "Ika, Ičići",
+"subtitle": "Ul. Maršala Tita 30, ispred dječjeg vrtića",
+"region": "Primorsko-goranska",
+"coordinatesLatitude": 45.306251,
+"coordinatesLongitude": 14.280786
 }
-
 ]
