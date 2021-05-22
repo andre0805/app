@@ -1991,5 +1991,13 @@
 "region": "Primorsko-goranska",
 "coordinatesLatitude": 45.310313,
 "coordinatesLongitude": 14.285828
+},
+{
+"id": "249",
+"title": "Ilica",
+"subtitle": "Ilica kod kbr. 454, smjer zapad",
+"region": "Zagrebačka +Grad Zagreb",
+"coordinatesLatitude": 45.811615,
+"coordinatesLongitude": 15.912673
 }
 ]
